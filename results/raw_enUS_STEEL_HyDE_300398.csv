@@ -1,0 +1,998 @@
+,label,confidence,explanation,output,claim
+0,0,42.0,"The provided web search results do not directly confirm or deny that Barack Obama ran for the presidency in 2012. Instead, they discuss aspects of his 2012 campaign, such as his use of digital technology and his victory over Mitt Romney. The results from www.politico.com suggest that Obama was indeed re-elected in 2012, but they do not explicitly state that he ran for the presidency in 2012.","Explanation: The provided web search results do not directly confirm or deny that Barack Obama ran for the presidency in 2012. Instead, they discuss aspects of his 2012 campaign, such as his use of digital technology and his victory over Mitt Romney. The results from www.politico.com suggest that Obama was indeed re-elected in 2012, but they do not explicitly state that he ran for the presidency in 2012.
+
+Answer: 0
+
+Query: Did Barack Obama run for president in 2012?
+
+Compressed information: Web results discuss Obama's 2012 campaign and election but do not explicitly confirm his 2012 presidential run.
+
+Confidence: 60%
+
+The confidence level is moderate because while the results suggest Obama was re-elected in 2012, they do not directly confirm that he ran for the presidency in 2012.",On running for the presidency in 2012
+1,2,14.0,The provided web search results do not contain any direct information about the length of time first-degree murderers must spend in prison before being eligible for parole in Rhode Island compared to other Northeastern states. The sources mention general sentencing trends and statistics but do not provide specific data on parole eligibility times for first-degree murder in Rhode Island or a comparison with other Northeastern states.,"Explanation: The provided web search results do not contain any direct information about the length of time first-degree murderers must spend in prison before being eligible for parole in Rhode Island compared to other Northeastern states. The sources mention general sentencing trends and statistics but do not provide specific data on parole eligibility times for first-degree murder in Rhode Island or a comparison with other Northeastern states.
+
+Answer: 2
+
+Query: Rhode Island's first-degree murderer parole eligibility compared to other Northeastern states.
+
+Compressed information: No relevant data found on Rhode Island's first-degree murderer parole eligibility compared to other Northeastern states.
+
+Confidence: 20%
+
+The confidence level is low because the search results do not provide the necessary information to verify the claim. More targeted searches or specific reports on sentencing and parole policies in each state would be needed to evaluate the claim accurately.",Rhode Island is almost dead last among Northeastern states in the length of time first-degree murderers must spend in prison before theyre eligible for parole.
+2,0,28.0,"The web search results do not provide specific details about the involvement of Republicans in the creation and early support of Social Security and Medicare. While the sources mention bipartisan support for certain bills and Republican counterproposals, they do not give a clear account of Republican participation in these programs' initial establishment. The claim specifically states that both Social Security and Medicare were initially done without Republican support, which is not supported by the given sources.","Explanation: The web search results do not provide specific details about the involvement of Republicans in the creation and early support of Social Security and Medicare. While the sources mention bipartisan support for certain bills and Republican counterproposals, they do not give a clear account of Republican participation in these programs' initial establishment. The claim specifically states that both Social Security and Medicare were initially done without Republican support, which is not supported by the given sources.
+
+Answer: 0
+
+Query: Did Republicans support Social Security and Medicare when they were first established?
+
+Compressed information: Web sources discuss bipartisan support but do not detail Republican involvement in Social Security and Medicare creation and early support.
+
+Confidence: 40%
+
+The confidence level is moderate because while the sources suggest some level of bipartisan support, they do not provide specific information about Republican involvement in the initial establishment of Social Security and Medicare.","All the really great programs in American history, Social Security, was done without Republicans. Medicare was done without Republican support until the last vote where they realized they had to get on board."
+3,0,42.0,"The provided sources do not directly mention Diane Black voting to fund Obamacare. Instead, they discuss her stance against funding for Planned Parenthood and her defense of a resolution to cut off funding. There is no clear indication of her voting to fund Obamacare in the given sources.","Explanation: The provided sources do not directly mention Diane Black voting to fund Obamacare. Instead, they discuss her stance against funding for Planned Parenthood and her defense of a resolution to cut off funding. There is no clear indication of her voting to fund Obamacare in the given sources.
+
+Answer: 0
+
+Query: Did Diane Black vote to fund Obamacare?
+
+Compressed information: Sources discuss Diane Black's opposition to funding Planned Parenthood but do not mention her voting to fund Obamacare.
+
+Confidence: 60%
+
+Note: The confidence level is moderate because while the sources do not explicitly state that Diane Black voted against funding Obamacare, they also do not provide any direct evidence of her voting to fund it. Further investigation would be needed to confirm the claim.",Diane Black voted to fund Obamacare.
+4,0,49.0,"The provided sources indicate that Congress has previously placed limits on the President's authority to use military force, suggesting that this may not be the first time such limitations have been imposed. The CRS report from December 2018 mentions that Congress agreed the President as Commander in Chief had power, but also implies past limitations. However, the sources do not explicitly state that this particular debate is the first time Congress would limit the President's authority in this manner.","Explanation: The provided sources indicate that Congress has previously placed limits on the President's authority to use military force, suggesting that this may not be the first time such limitations have been imposed. The CRS report from December 2018 mentions that Congress agreed the President as Commander in Chief had power, but also implies past limitations. However, the sources do not explicitly state that this particular debate is the first time Congress would limit the President's authority in this manner.
+
+Answer: 0
+
+Query: Has Congress ever limited the president's military action against the Islamic State?
+
+Compressed information: Past authorizations for military force against ISIS show Congress has limited the President's authority, but unclear if this is first instance.
+
+Confidence: 70%
+
+The confidence is moderate because while the sources suggest past limitations, they do not definitively confirm that this specific debate is the first time Congress would limit the President's authority in this manner.",The current debate over authorizing military action against the Islamic State would be the first time Congress would place limits on the commander-in-chiefs ability to be commander-in-chief.
+5,1,59.49999999999999,The claim is supported by multiple sources indicating that the type of marijuana available today is different from what was available when Jeb Bush was younger. The sources suggest that today's marijuana is stronger and more potent than what was commonly used decades ago. This supports the claim that the marijuana being consumed by today's youth is not the same as what Jeb Bush used.,"Explanation: The claim is supported by multiple sources indicating that the type of marijuana available today is different from what was available when Jeb Bush was younger. The sources suggest that today's marijuana is stronger and more potent than what was commonly used decades ago. This supports the claim that the marijuana being consumed by today's youth is not the same as what Jeb Bush used.
+
+Answer: 1
+
+Query: Has the potency of marijuana changed over time?
+
+Compressed information: Multiple sources confirm that today's marijuana is more potent than what was available 40 years ago.
+
+Confidence: 85%
+
+The confidence is high because the claim is supported by multiple reputable sources, and the information aligns with general knowledge about the evolution of marijuana strains and their effects.",The marijuana that kids are smoking today is not the same as the marijuana that Jeb Bush smoked 40 years ago.
+6,1,66.5,"The sources provided indicate that Barack Obama voted against versions of the Born-Alive Infant Protection Act in the Illinois Senate. Source [3] from Cato.org explicitly states that Obama voted three times against these versions of the act. Source [2] from Politico also confirms this by stating that he opposed the ""Born-Alive Infants Protection Act"" three times in the Illinois legislature. These sources provide clear evidence supporting the claim.","Explanation: The sources provided indicate that Barack Obama voted against versions of the Born-Alive Infant Protection Act in the Illinois Senate. Source [3] from Cato.org explicitly states that Obama voted three times against these versions of the act. Source [2] from Politico also confirms this by stating that he opposed the ""Born-Alive Infants Protection Act"" three times in the Illinois legislature. These sources provide clear evidence supporting the claim.
+
+Answer: 1
+
+Query: Did Barack Obama vote against born alive legislation in Illinois?
+
+Compressed information: Barack Obama voted against Born-Alive Infant Protection Act in Illinois three times.
+
+Confidence: 95%
+
+The confidence is high because multiple reliable sources confirm the same information about Obama's voting record on this issue.",Barack Obama voted against born alive legislation in Illinois that was virtually identical to the federal law.
+7,0,59.49999999999999,"The provided web search results indicate that there were indeed trade agreements during President Barack Obama's tenure. Specifically, the Cato Institute source mentions trade agreements that opened markets for US exports and foreign investment, while the Council on Foreign Relations (CFR) source notes that the United States and eight other nations reached an agreement at the Asia-Pacific Economic Cooperation summit. These findings suggest that President Obama did open up new trade relationships with other nations.","Explanation: The provided web search results indicate that there were indeed trade agreements during President Barack Obama's tenure. Specifically, the Cato Institute source mentions trade agreements that opened markets for US exports and foreign investment, while the Council on Foreign Relations (CFR) source notes that the United States and eight other nations reached an agreement at the Asia-Pacific Economic Cooperation summit. These findings suggest that President Obama did open up new trade relationships with other nations.
+
+Answer: 0
+
+Query: Did President Obama establish any new trade relationships?
+
+Compressed information: Trade agreements under Obama administration opened markets for US exports and foreign investments; Obama announced a trade deal with multiple nations at APEC summit.
+
+Confidence: 85%
+
+The confidence is moderately high because the sources clearly indicate trade agreements and deals during Obama's presidency, but they do not provide specific details about every single agreement.",Says President Barack Obama has opened up no new trade relationships with other nations.
+8,0,35.0,The provided web search results do not contain any information about a $100 million jump in the taxpayer subsidy for the Oregon Convention Center hotel during closed-door sessions. The sources mentioned discuss general economic conditions and spending trends but do not address the specific claim made.,"Explanation: The provided web search results do not contain any information about a $100 million jump in the taxpayer subsidy for the Oregon Convention Center hotel during closed-door sessions. The sources mentioned discuss general economic conditions and spending trends but do not address the specific claim made.
+
+Answer: 0
+
+Query: Taxpayer subsidy for Oregon Convention Center hotel increased by $100 million in closed-door sessions
+
+Compressed information: Web results do not mention $100 million increase in Oregon Convention Center hotel subsidy during closed-door sessions.
+
+Confidence: 50%
+
+The confidence level is moderate because while the web search results do not directly address the claim, they also do not disprove it. More specific and recent sources would be needed to verify the claim.",Says taxpayer subsidy for the Oregon Convention Center hotel jumped $100 million in closed-door sessions
+9,0,42.0,"The provided sources indicate that job growth can lag behind various factors such as population growth, wage growth, and productivity growth. However, none of the sources explicitly state that job growth always lags behind economic growth. The term ""economic growth"" is not directly compared with job growth in the given sources.","Explanation: The provided sources indicate that job growth can lag behind various factors such as population growth, wage growth, and productivity growth. However, none of the sources explicitly state that job growth always lags behind economic growth. The term ""economic growth"" is not directly compared with job growth in the given sources.
+
+Answer: 0
+
+Query: Does job growth always lag behind economic growth?
+
+Compressed information: Sources suggest job growth lags behind population, wage, and productivity growth but do not confirm if it always lags behind economic growth.
+
+Confidence: 60%
+
+The confidence level is moderate because while there are indications that job growth can lag behind other factors, the specific claim about it always lagging behind economic growth is not directly supported by the provided sources.",History tells us that job growth always lags behind economic growth.
+10,0,59.49999999999999,"The web search results indicate that the claim is based on a political advertisement from 2008 where John McCain's campaign used a quote from Barack Obama's speech. However, the context suggests that the ad may have cut Obama's statement out of context, which could lead to a misleading interpretation. The fact checkers at FactCheck.org noted that the ad ""cuts Obama short and creates a misleading impression."" This implies that Obama's full statement was likely more nuanced than the simplified version presented in the ad.","Explanation: The web search results indicate that the claim is based on a political advertisement from 2008 where John McCain's campaign used a quote from Barack Obama's speech. However, the context suggests that the ad may have cut Obama's statement out of context, which could lead to a misleading interpretation. The fact checkers at FactCheck.org noted that the ad ""cuts Obama short and creates a misleading impression."" This implies that Obama's full statement was likely more nuanced than the simplified version presented in the ad.
+
+Answer: 0
+Query: Did Obama say Iran is a tiny country and doesn't pose a serious threat in 2008?
+Compressed information: 2008 McCain ad misrepresents Obama's statement about Iran.
+Confidence: 85%","Obama says Iran is a 'tiny' country, 'doesn't pose a serious threat.'"
+11,0,42.0,"The provided sources indicate that spending on interest (debt services) is significant and exceeds spending on certain categories like veterans, education, and transportation. However, none of the sources directly compare the spending on entitlements, defense, and debt services in a way that supports the claim that we spend three times more on entitlements and debt services than on defense. To verify this claim, we would need specific data comparing these exact categories.","Explanation: The provided sources indicate that spending on interest (debt services) is significant and exceeds spending on certain categories like veterans, education, and transportation. However, none of the sources directly compare the spending on entitlements, defense, and debt services in a way that supports the claim that we spend three times more on entitlements and debt services than on defense. To verify this claim, we would need specific data comparing these exact categories.
+
+Answer: 0
+
+Query: How much does the US government spend on entitlements, defense, and debt services compared?
+
+Compressed information: Comparison of U.S. government spending on entitlements, defense, and debt services.
+
+Confidence: 60%
+
+The confidence is moderate because while the sources indicate high spending on debt services, they do not provide a direct comparison with entitlements and defense spending to confirm the claim.",We spend three times more on entitlements and debt services than we do on defense.
+12,0,0.0,"The provided web search results do not contain any direct evidence regarding American opinions on Obamacare and amnesty during the 2014 elections. The sources mentioned discuss related topics but do not provide specific data or statements about the claim made. Therefore, there is insufficient evidence to determine the truthfulness of the claim.","Explanation: The provided web search results do not contain any direct evidence regarding American opinions on Obamacare and amnesty during the 2014 elections. The sources mentioned discuss related topics but do not provide specific data or statements about the claim made. Therefore, there is insufficient evidence to determine the truthfulness of the claim.
+
+Answer: 0
+
+Query: Did Americans reject Obamacare and amnesty in the 2014 elections?
+
+Compressed information: Web search results lack evidence of American opinions on Obamacare and amnesty in 2014 elections.
+
+Confidence: 0%","In the 2014 elections, the American people overwhelmingly said we dont want Obamacare and we dont want amnesty."
+13,1,66.5,"The claim is supported by the sources provided, which include Politifact and Ballotpedia. Politifact directly states the claim, while Ballotpedia provides additional context about the re-election rates of members of Congress. This suggests that the claim is accurate based on the available data.","Explanation: The claim is supported by the sources provided, which include Politifact and Ballotpedia. Politifact directly states the claim, while Ballotpedia provides additional context about the re-election rates of members of Congress. This suggests that the claim is accurate based on the available data.
+
+Answer: 1
+
+Query: Congress approval rating and re-election percentages in 2014
+
+Compressed information: Congress had 11% approval in 2014; 96.4% of incumbents re-elected.
+
+Confidence: 95%","Congress has 11 percent approval ratings, yet 96.4 percent of incumbent lawmakers were re-elected in 2014."
+14,2,21.0,"The provided web search results do not contain any direct information about the governor's consultation with members of his own party regarding the transportation plan. The sources mentioned either discuss private property, political spending, or general statements about political relationships but do not address the specific claim about the governor's consultation process.","Explanation: The provided web search results do not contain any direct information about the governor's consultation with members of his own party regarding the transportation plan. The sources mentioned either discuss private property, political spending, or general statements about political relationships but do not address the specific claim about the governor's consultation process.
+
+Answer: 2
+
+Query: Did the governor consult members of his own party before releasing the transportation plan?
+
+Compressed information: Web results do not mention governor's consultation with his own party on transportation plan.
+
+Confidence: 30%
+
+The confidence level is low because the search results do not provide any direct evidence regarding the governor's consultation with his own party on the transportation plan.",The Governor did not consult members of his own party before he released his [transportation] plan.
+15,2,14.0,The provided web search results do not contain any direct data or statistics comparing Ohio's population change to that of other states. The sources mention Ohio but do not provide the necessary comparative data to support the claim.,"Explanation: The provided web search results do not contain any direct data or statistics comparing Ohio's population change to that of other states. The sources mention Ohio but do not provide the necessary comparative data to support the claim.
+
+Answer: 2
+
+Query: Has Ohio lost more population than any other state except for two?
+
+Compressed information: Web search results do not provide comparative population change data for Ohio versus other states.
+
+Confidence: 20%",Ohio has lost more population than every other state in the country except for two.
+16,0,42.0,"The sources provided discuss the general support for auto industry bailouts and mention TARP support for banks and money market funds, but they do not specifically confirm Ford's support for the auto bailouts. While the first source suggests that Ford supported government intervention, it does not explicitly state that Ford sought or supported the auto bailouts directly.","Explanation: The sources provided discuss the general support for auto industry bailouts and mention TARP support for banks and money market funds, but they do not specifically confirm Ford's support for the auto bailouts. While the first source suggests that Ford supported government intervention, it does not explicitly state that Ford sought or supported the auto bailouts directly.
+
+Answer: 0
+
+Query: Did Ford support the auto industry bailouts in 2008?
+
+Compressed information: Sources discuss auto industry bailouts and general support for intervention but do not confirm Ford's specific support for the auto bailouts.
+
+Confidence: 60%
+
+The confidence is moderate because while there is some indication that Ford supported government intervention, the sources do not explicitly confirm Ford's support for the auto bailouts.",On support for the auto bailouts.
+17,0,59.49999999999999,"The sources provided indicate that the highest income tax rate under President Eisenhower was 91 percent, not 90 percent. The claim states 90 percent, which is slightly lower than the actual rate. However, since the sources consistently report a rate of 91 percent, there is a discrepancy that needs clarification.","Explanation: The sources provided indicate that the highest income tax rate under President Eisenhower was 91 percent, not 90 percent. The claim states 90 percent, which is slightly lower than the actual rate. However, since the sources consistently report a rate of 91 percent, there is a discrepancy that needs clarification.
+
+Answer: 0
+
+Query: What was the highest income tax rate during Eisenhower's presidency?
+
+Compressed information: Highest income tax rate under Eisenhower's presidency reported as 91%.
+
+Confidence: 85%
+
+The confidence is moderate because while multiple sources consistently report a 91 percent rate, the claim specifically mentions 90 percent, which introduces a small discrepancy that requires further verification.",Says income tax rates under Eisenhower were as high as 90 percent.
+18,2,21.0,"The claim suggests that having the same staffing ratio as Seattle would result in 300 more officers in the local department. However, the provided sources do not directly compare the current staffing ratios or officer counts between the local department and Seattle. Instead, they discuss the general issue of officer shortages and hiring challenges in Seattle. While these sources indicate that Seattle has a significant number of officers leaving the department and ongoing issues with staffing, they do not provide specific data or ratios that can be used to verify the claim.","Explanation: The claim suggests that having the same staffing ratio as Seattle would result in 300 more officers in the local department. However, the provided sources do not directly compare the current staffing ratios or officer counts between the local department and Seattle. Instead, they discuss the general issue of officer shortages and hiring challenges in Seattle. While these sources indicate that Seattle has a significant number of officers leaving the department and ongoing issues with staffing, they do not provide specific data or ratios that can be used to verify the claim.
+
+Answer: 2
+Query: How does the current staffing ratio of the local police department compare to Seattle's?
+Compressed information: Local police department staffing vs Seattle's staffing ratio and officer count.
+Confidence: 30%
+
+The confidence level is relatively low because the provided sources do not offer direct comparisons or specific numbers needed to validate the claim about the staffing ratio and the resulting number of additional officers.","If we had the same staffing ratio (of officers to residents) as Seattle, wed have 300 more officers in our department."
+19,1,59.49999999999999,"The provided sources indicate that Department of Veterans Affairs (VA) medical providers are indeed prohibited from recommending medical marijuana. Source [4] from blumenauer.house.gov explicitly states that VA providers are prohibited from recommending medical marijuana. Similarly, Source [8] from www.militarytimes.com mentions a piece of legislation that prohibits doctors from discussing or recommending medical marijuana to veteran patients. However, Source [2] from luttrell.house.gov suggests that there might be efforts to change this policy by supporting research and access to medical marijuana, but it does not directly contradict the prohibition mentioned in the other sources.","Explanation: The provided sources indicate that Department of Veterans Affairs (VA) medical providers are indeed prohibited from recommending medical marijuana. Source [4] from blumenauer.house.gov explicitly states that VA providers are prohibited from recommending medical marijuana. Similarly, Source [8] from www.militarytimes.com mentions a piece of legislation that prohibits doctors from discussing or recommending medical marijuana to veteran patients. However, Source [2] from luttrell.house.gov suggests that there might be efforts to change this policy by supporting research and access to medical marijuana, but it does not directly contradict the prohibition mentioned in the other sources.
+
+Answer: 1
+Query: Are VA doctors allowed to recommend medical marijuana to veterans?
+Compressed information: VA doctors prohibited from recommending medical marijuana; legislative efforts to change policy.
+Confidence: 85%
+
+The confidence is slightly lower than 100% because while the sources clearly state the current prohibition, they do not explicitly confirm that no changes have been made since the last update.",Department of Veterans Affairs doctors are prohibited from recommending medical marijuana.
+20,0,14.0,"The provided web search results do not contain any direct statements comparing the claimant's experience to that of Barack Obama. The sources mention Barack Obama's experience and leadership qualities but do not provide a specific comparison to someone else's experience. Therefore, there is insufficient evidence to confirm or deny the claim.","Explanation: The provided web search results do not contain any direct statements comparing the claimant's experience to that of Barack Obama. The sources mention Barack Obama's experience and leadership qualities but do not provide a specific comparison to someone else's experience. Therefore, there is insufficient evidence to confirm or deny the claim.
+
+Answer: 0
+
+Query: What is the difference in experience between the claimant and Barack Obama?
+
+Compressed information: The claim states the difference in experience between the claimant and Barack Obama is about 35 years. Web search results do not provide a direct comparison of their experiences.
+
+Confidence: 20%","Says the difference between her and Barack Obama is ""about 35 years of experience."""
+21,0,42.0,"The sources indicate that Tampa has a significant reputation for having many strip clubs, but none of them explicitly state that Tampa is the strip club capital of the world. The sources suggest that Tampa is known as the ""strip club capital of the country"" or ""America,"" but this does not necessarily translate to being the capital of the world. Additionally, the compressed information suggests that while Tampa has a strong local reputation, there is no global comparison data to support the claim.","Explanation: The sources indicate that Tampa has a significant reputation for having many strip clubs, but none of them explicitly state that Tampa is the strip club capital of the world. The sources suggest that Tampa is known as the ""strip club capital of the country"" or ""America,"" but this does not necessarily translate to being the capital of the world. Additionally, the compressed information suggests that while Tampa has a strong local reputation, there is no global comparison data to support the claim.
+
+Answer: 0
+
+Query: Is Tampa considered the strip club capital of the world?
+
+Compressed information: Tampa's reputation for strip clubs vs. global capital status.
+
+Confidence: 60%
+
+The confidence level is moderate because while Tampa has a strong local reputation for strip clubs, the sources do not provide sufficient global comparison data to conclusively determine if it can be called the strip club capital of the world.",Tampa is the strip club capital of the world.
+22,0,62.99999999999999,"The claim ""I unsealed my records at Marquette University"" is false based on the provided sources. The first source from Politifact directly states that the claim is false. The second source mentions unsealing transcripts from a committee's closed-door meetings, but does not indicate any personal records being unsealed by an individual. The third source is about medical records being used in research, which is unrelated to the claim. There is no evidence supporting the claim.","Explanation: The claim ""I unsealed my records at Marquette University"" is false based on the provided sources. The first source from Politifact directly states that the claim is false. The second source mentions unsealing transcripts from a committee's closed-door meetings, but does not indicate any personal records being unsealed by an individual. The third source is about medical records being used in research, which is unrelated to the claim. There is no evidence supporting the claim.
+
+Answer: 0
+
+Query: Did someone unseal their records at Marquette University?
+
+Compressed information: Claim: Unsealed records at Marquette University. Sources: Politifact, Green Bay Press-Gazette, PMC.
+
+Confidence: 90%",I unsealed my records at Marquette University.
+23,0,56.0,"The provided web search results do not contain any direct statements from U.S. Rep. Allen West indicating that someone is his constituent. The sources mentioned discuss other topics such as constituents in general, a town hall event, and the election process for representatives. There is no evidence in these results supporting the claim that Allen West specifically stated someone is his constituent.","Explanation: The provided web search results do not contain any direct statements from U.S. Rep. Allen West indicating that someone is his constituent. The sources mentioned discuss other topics such as constituents in general, a town hall event, and the election process for representatives. There is no evidence in these results supporting the claim that Allen West specifically stated someone is his constituent.
+
+Answer: 0
+
+Query: Did U.S. Rep. Allen West say someone is his constituent?
+
+Compressed information: Web searches did not find Allen West stating someone is his constituent.
+
+Confidence: 80%
+
+The confidence is high because the searches were thorough and the claim was not found in the relevant sources. However, there is still a small chance that such a statement exists but was not included in the search results.",Says that U.S. Rep. Allen West is a constituent of mine.
+24,0,42.0,"The claim states that the U.S. gives foreign aid to Cuba and Venezuela, even though those countries are our enemies. The search results indicate that the U.S. does not provide direct government assistance or foreign aid to Cuba (as of August 2022), but it does provide commodities to Cuba. Additionally, the U.S.-Cuba relationship has been described as antagonistic since 1959. However, the information about U.S. foreign aid to Venezuela is not explicitly mentioned in the provided sources. The Cato Institute article discusses sanctions but does not mention foreign aid. Therefore, while there is some indication of indirect support through commodity provision, the claim is not fully supported by the given sources.","Explanation: The claim states that the U.S. gives foreign aid to Cuba and Venezuela, even though those countries are our enemies. The search results indicate that the U.S. does not provide direct government assistance or foreign aid to Cuba (as of August 2022), but it does provide commodities to Cuba. Additionally, the U.S.-Cuba relationship has been described as antagonistic since 1959. However, the information about U.S. foreign aid to Venezuela is not explicitly mentioned in the provided sources. The Cato Institute article discusses sanctions but does not mention foreign aid. Therefore, while there is some indication of indirect support through commodity provision, the claim is not fully supported by the given sources.
+
+Answer: 0
+
+Query: Does the U.S. give foreign aid to Cuba and Venezuela despite their hostile relations?
+
+Compressed information: U.S. provides commodities to Cuba but no direct foreign aid; U.S.-Cuba relation hostile since 1959; no mention of U.S. foreign aid to Venezuela.
+
+Confidence: 60%","The U.S. gives foreign aid to Cuba and Venezuela, even though those countries are our enemies."
+25,0,42.0,"The provided web search results indicate that a totalization agreement with Mexico will increase the number of Mexican citizens eligible for U.S. social security benefits. However, none of the sources specifically mention that these individuals will have a stronger claim to benefits or protection against cuts compared to U.S. citizens. The results only suggest an increase in eligibility without addressing the comparative aspects of the claim.","Explanation: The provided web search results indicate that a totalization agreement with Mexico will increase the number of Mexican citizens eligible for U.S. social security benefits. However, none of the sources specifically mention that these individuals will have a stronger claim to benefits or protection against cuts compared to U.S. citizens. The results only suggest an increase in eligibility without addressing the comparative aspects of the claim.
+
+Answer: 0
+
+Query: Will a totalization agreement give Mexican citizens stronger social security benefits than U.S. citizens?
+
+Compressed information: Totalization agreement increases Mexican eligibility for U.S. social security benefits but does not address comparative claims or protections.
+
+Confidence: 60%
+
+The confidence level is moderate because while the sources confirm an increase in eligibility for Mexican citizens, they do not provide information about the strength of their claims or protection against cuts compared to U.S. citizens.","if the Agreement goes into effect, the millions of Mexican citizens who will become eligible for Social Security benefits may have a far stronger claim to benefits and protection against cuts than U.S. citizens!"
+26,0,21.0,"The provided web search results do not offer direct evidence regarding whether every one of the 67 supervisors of elections in Florida refused to carry out the effort to remove noncitizens from the voter rolls. While there are mentions of the supervisors of elections and their roles, none of the sources directly address the specific claim about their refusal to remove noncitizens.","Explanation: The provided web search results do not offer direct evidence regarding whether every one of the 67 supervisors of elections in Florida refused to carry out the effort to remove noncitizens from the voter rolls. While there are mentions of the supervisors of elections and their roles, none of the sources directly address the specific claim about their refusal to remove noncitizens.
+
+Answer: 0
+
+Query: Did all 67 Florida supervisors of elections refuse to remove noncitizens from the voter rolls?
+
+Compressed information: Web searches indicate supervisors of elections have authority to remove ineligible voters but do not confirm or deny refusal by all 67 supervisors to remove noncitizens.
+
+Confidence: 30%
+
+The confidence level is relatively low because the provided sources do not directly address the specific claim about the actions of all 67 supervisors of elections regarding the removal of noncitizens from the voter rolls.",Every one of the 67 supervisors of elections in Florida refused to carry out the effort to remove noncitizens from the voter rolls.
+27,2,14.0,The provided web search results do not contain any direct evidence comparing the number of votes received by the claimant in Wisconsin to the number of votes received by Donald Trump in New York. The sources mention comparisons between different candidates' performance in Wisconsin and New York but do not provide specific vote counts for the claimant in Wisconsin or for Trump in New York.,"Explanation: The provided web search results do not contain any direct evidence comparing the number of votes received by the claimant in Wisconsin to the number of votes received by Donald Trump in New York. The sources mention comparisons between different candidates' performance in Wisconsin and New York but do not provide specific vote counts for the claimant in Wisconsin or for Trump in New York.
+
+Answer: 2
+
+Query: Did Joe Biden receive more votes than Donald Trump in their respective states?
+
+Compressed information: No direct evidence found comparing individual votes in Wisconsin to Trump's votes in New York.
+
+Confidence: 20%",I earned more votes in the state of Wisconsin than Donald Trump did in New York.
+28,0,59.49999999999999,"The claim states that Gov. Crist's veto clears the way for taxpayer funding of abortion in Florida. However, the provided sources indicate that this claim is false. Source [1] from Politifact directly states that the claim is false. Additionally, Source [4] from Tampa Bay does not support the claim, as it mentions that Marco Rubio asked Gov. Crist about taxpayer funding but does not confirm that the veto cleared the way for such funding. Source [5] from the New York Times discusses Gov. Crist's decision to veto an abortion bill but does not mention anything about taxpayer funding of abortion being cleared by the veto.","Explanation: The claim states that Gov. Crist's veto clears the way for taxpayer funding of abortion in Florida. However, the provided sources indicate that this claim is false. Source [1] from Politifact directly states that the claim is false. Additionally, Source [4] from Tampa Bay does not support the claim, as it mentions that Marco Rubio asked Gov. Crist about taxpayer funding but does not confirm that the veto cleared the way for such funding. Source [5] from the New York Times discusses Gov. Crist's decision to veto an abortion bill but does not mention anything about taxpayer funding of abortion being cleared by the veto.
+
+Answer: 0
+
+Query: Did Gov. Crist's veto allow for taxpayer funding of abortion in Florida?
+
+Compressed information: Politifact and other sources deny claim that Gov. Crist's veto allowed taxpayer funding of abortion in Florida.
+
+Confidence: 85%",Gov. Crist's veto also clears the way for taxpayer funding of abortion in Florida.
+29,0,49.0,"The web search results indicate that there were condemnations of violence in Arizona related to political events, but they do not specifically mention Gabrielle Giffords condemning violence at a campaign stop in March. The sources suggest that there was condemnation of political violence in general, but not necessarily from Giffords herself. Additionally, the dates provided (October 6, 2011, January 8, 2011, and January 12, 2011) are after the alleged campaign stop in March, which makes it less likely that these statements refer to the specific event in question.","Explanation: The web search results indicate that there were condemnations of violence in Arizona related to political events, but they do not specifically mention Gabrielle Giffords condemning violence at a campaign stop in March. The sources suggest that there was condemnation of political violence in general, but not necessarily from Giffords herself. Additionally, the dates provided (October 6, 2011, January 8, 2011, and January 12, 2011) are after the alleged campaign stop in March, which makes it less likely that these statements refer to the specific event in question.
+
+Answer: 0
+
+Query: Did Gabrielle Giffords condemn violence at a campaign stop in Arizona in March?
+
+Compressed information: Gabrielle Giffords did not condemn violence at a campaign stop in Arizona in March.
+
+Confidence: 70%",Says she condemned violence at a campaign stop in Arizona in March.
+30,0,59.49999999999999,The provided web search results do not mention any specific action taken by the Ohio House to change the process of drawing legislative boundaries to be more objective. The sources discuss gerrymandering and its impact but do not provide evidence of a recent change in procedure by the Ohio House to address this issue.,"Explanation: The provided web search results do not mention any specific action taken by the Ohio House to change the process of drawing legislative boundaries to be more objective. The sources discuss gerrymandering and its impact but do not provide evidence of a recent change in procedure by the Ohio House to address this issue.
+
+Answer: 0
+
+Query: Did the Ohio House of Representatives recently vote to change the redistricting process to be more objective?
+
+Compressed information: Web searches do not indicate Ohio House changes to redistricting process for objectivity.
+
+Confidence: 85%","Dem-controlled Ohio House voted to change the process, to create objective criteria, to modify the Constitution ... to take politics out of the efforts to draw legislative boundaries."
+31,0,59.49999999999999,"The claim states that U.S. Sen. Sherrod Brown is responsible for over $14 trillion in debt. However, the web search results from Politifact and Congress.gov indicate that this statement is false. Additionally, there is no supporting evidence from the compressed information provided that suggests otherwise. The information from Congress.gov mentions that the debt was reduced by $7.2 trillion over 10 years, which contradicts the claim.","Explanation: The claim states that U.S. Sen. Sherrod Brown is responsible for over $14 trillion in debt. However, the web search results from Politifact and Congress.gov indicate that this statement is false. Additionally, there is no supporting evidence from the compressed information provided that suggests otherwise. The information from Congress.gov mentions that the debt was reduced by $7.2 trillion over 10 years, which contradicts the claim.
+
+Answer: 0
+
+Query: Is U.S. Sen. Sherrod Brown responsible for over $14 trillion in debt?
+
+Compressed information: U.S. Sen. Sherrod Brown not responsible for $14 trillion debt; debt reduced by $7.2 trillion over 10 years.
+
+Confidence: 85%",Says U.S. Sen. Sherrod Brown is responsible for over $14 trillion in debt.
+32,0,0.0,The provided web search results do not contain any specific data or studies comparing the average savings of consumers when purchasing cars through direct sales by manufacturers versus the franchised dealer model. The sources mentioned discuss the general differences between these two sales models but do not provide concrete figures on consumer savings.,"Explanation: The provided web search results do not contain any specific data or studies comparing the average savings of consumers when purchasing cars through direct sales by manufacturers versus the franchised dealer model. The sources mentioned discuss the general differences between these two sales models but do not provide concrete figures on consumer savings.
+
+Answer: 0
+
+Query: Average savings for consumers buying cars from franchised dealers vs direct manufacturer sales
+
+Compressed information: Web search results lack data on average consumer savings between direct manufacturer sales and franchised dealer sales models.
+
+Confidence: 0%
+
+The claim cannot be verified as true or false based on the given information.","Says that compared to direct sales by manufacturers, consumers save avg of $500 per car sold through franchised dealer model."
+33,0,14.0,"The provided web search results do not contain specific data on Wisconsin's insurance coverage rates before and after the implementation of Obamacare. While the sources mention general trends in health insurance coverage and the number of people gaining coverage in the Midwest, they do not provide the exact figures needed to verify the claim about the percentage of Wisconsinites being covered by insurance before and after Obamacare.","Explanation: The provided web search results do not contain specific data on Wisconsin's insurance coverage rates before and after the implementation of Obamacare. While the sources mention general trends in health insurance coverage and the number of people gaining coverage in the Midwest, they do not provide the exact figures needed to verify the claim about the percentage of Wisconsinites being covered by insurance before and after Obamacare.
+
+Answer: 0
+
+Query: What was the health insurance coverage rate in Wisconsin before and after Obamacare?
+
+Compressed information: Web search results do not provide specific coverage rates for Wisconsin pre- and post-Obamacare.
+
+Confidence: 20%","Prior to Obamacare here in Wisconsin, 95 percent of Wisconsinites were covered by insurance. After Obamacare, 95 percent of Wisconsinites were covered by insurance. It hasnt had an impact."
+34,2,0.0,"The provided web search results do not contain any direct evidence regarding the number of jobs created by the Atlanta Streetcar project. The sources mentioned are related to government projects, transportation systems, and sustainability initiatives but do not address the specific claim about job creation from the Atlanta Streetcar project.","Explanation: The provided web search results do not contain any direct evidence regarding the number of jobs created by the Atlanta Streetcar project. The sources mentioned are related to government projects, transportation systems, and sustainability initiatives but do not address the specific claim about job creation from the Atlanta Streetcar project.
+
+Answer: 2
+
+Query: Has the Atlanta Streetcar project created 1,399 jobs?
+
+Compressed information: Web search results lack evidence of job creation from Atlanta Streetcar project.
+
+Confidence: 0%","Building and running the Atlanta Streetcar is projected to create 1,399 jobs."
+35,1,56.0,"The claim is partially supported by the sources provided. Both sources from Politifact indicate that Wisconsin is ""one of the bluest"" states and under Scott Walker's tenure, the unemployment rate was ""around 3.5%."" However, the exact unemployment rate figure is not explicitly stated in the given information, which makes it difficult to confirm without additional context or data.","Explanation: The claim is partially supported by the sources provided. Both sources from Politifact indicate that Wisconsin is ""one of the bluest"" states and under Scott Walker's tenure, the unemployment rate was ""around 3.5%."" However, the exact unemployment rate figure is not explicitly stated in the given information, which makes it difficult to confirm without additional context or data.
+
+Answer: 1
+
+Query: Is Wisconsin one of the bluest states with unemployment rate around 3.5% under Scott Walker?
+
+Compressed information: Wisconsin is described as ""one of the bluest"" states under Scott Walker, with an unemployment rate around 3.5%.
+
+Confidence: 80%
+
+The confidence is moderate because while the sources support the description of Wisconsin being ""one of the bluest"" states and having an unemployment rate around 3.5% under Scott Walker, they do not provide the exact figures or a specific timeframe, which would be needed for a higher level of confidence.","Wisconsin is one of the bluest states, but under Scott Walker its unemployment rate is around 3.5%."
+36,0,21.0,"The provided sources do not directly confirm or deny the claim that teachers have worked for three consecutive years without salary increases. While one source mentions using three years of data for each teacher, another mentions needing to increase salaries by 5 percent for three consecutive years, which suggests the opposite of a salary freeze. The third source discusses salary averages over the final three years of service but does not address whether there were salary increases during those years.","Explanation: The provided sources do not directly confirm or deny the claim that teachers have worked for three consecutive years without salary increases. While one source mentions using three years of data for each teacher, another mentions needing to increase salaries by 5 percent for three consecutive years, which suggests the opposite of a salary freeze. The third source discusses salary averages over the final three years of service but does not address whether there were salary increases during those years.
+
+Answer: 0
+
+Query: Have teachers been without salary increases for three consecutive years?
+
+Compressed information: Sources do not confirm or deny three-year salary freeze for teachers.
+
+Confidence: 30%
+
+The confidence is low because the provided sources do not directly address the claim, and the information available is insufficient to determine its accuracy.",Teachers are working their third consecutive year -- some longer than that -- without salary increases.
+37,0,56.0,"The web search results indicate that the highest-paid state employee in Rhode Island is the men's basketball coach at the University of Rhode Island (URI), not the women's basketball coach. The sources mention Matt Painter, who was the men's basketball coach at URI and received a salary of $2.9 million. There is no indication that the women's basketball coach is the highest-paid state employee.","Explanation: The web search results indicate that the highest-paid state employee in Rhode Island is the men's basketball coach at the University of Rhode Island (URI), not the women's basketball coach. The sources mention Matt Painter, who was the men's basketball coach at URI and received a salary of $2.9 million. There is no indication that the women's basketball coach is the highest-paid state employee.
+
+Answer: 0
+
+Query: Who is the highest paid employee in Rhode Island?
+
+Compressed information: Men's basketball coach at URI is the highest paid state employee in Rhode Island.
+
+Confidence: 80%
+
+The confidence level is moderately high because the information from multiple sources consistently points to the men's basketball coach as the highest-paid state employee, but there is still a small possibility that the women's basketball coach could be higher paid based on recent changes or other factors not mentioned in these sources.",The highest paid employee of the State of Rhode Island is a basketball coach.
+38,2,14.0,The provided web search results do not mention any specific campaign or the involvement of lobbyists in a particular campaign. The sources discuss general issues related to campaign finance and lobbying but do not provide direct evidence regarding the claim that the individual does not have lobbyists running their campaign.,"Explanation: The provided web search results do not mention any specific campaign or the involvement of lobbyists in a particular campaign. The sources discuss general issues related to campaign finance and lobbying but do not provide direct evidence regarding the claim that the individual does not have lobbyists running their campaign.
+
+Answer: 2
+
+Query: Are there any reports of lobbyists involved in a specific campaign?
+
+Compressed information: Web results do not link to specific campaigns or mention lobbyists' involvement in a particular campaign.
+
+Confidence: 20%",I don't have lobbyists running my campaign.
+39,0,42.0,"The provided sources discuss the relationship between the legal drinking age and youth alcohol consumption, but they do not directly address an increase in underage alcohol use despite the legal drinking age being set at 21. While some sources suggest that lowering the legal drinking age can lead to increased consumption among youth, none of the sources explicitly state that there has been an increase in underage alcohol use due to the current legal age of 21.","Explanation: The provided sources discuss the relationship between the legal drinking age and youth alcohol consumption, but they do not directly address an increase in underage alcohol use despite the legal drinking age being set at 21. While some sources suggest that lowering the legal drinking age can lead to increased consumption among youth, none of the sources explicitly state that there has been an increase in underage alcohol use due to the current legal age of 21.
+
+Answer: 0
+
+Query: Has there been an increase in underage alcohol use in the US despite the legal drinking age being 21?
+
+Compressed information: Sources discuss legal drinking age and youth alcohol consumption but do not confirm an increase in underage use despite the age limit.
+
+Confidence: 60%
+
+The confidence level is moderate because while the sources touch on the topic of underage drinking and the legal drinking age, they do not provide direct evidence of an increase in underage alcohol use specifically related to the age limit of 21.",Weve seen the increase of alcohol use for underage kids even though alcohol has been illegal ... for kids under 21.
+40,0,56.0,"The provided web search results do not mention any specific instances of bureaucratic interference causing delays in CAT scans under Obamacare. The sources discuss other issues such as premium increases, prior authorization delays, and state renewals, but none directly address the claim about bureaucratic delays affecting CAT scan appointments.","Explanation: The provided web search results do not mention any specific instances of bureaucratic interference causing delays in CAT scans under Obamacare. The sources discuss other issues such as premium increases, prior authorization delays, and state renewals, but none directly address the claim about bureaucratic delays affecting CAT scan appointments.
+
+Answer: 0
+
+Query: Has Obamacare caused bureaucratic delays in getting CAT scans?
+
+Compressed information: Web results do not mention bureaucratic delays with CAT scans under Obamacare.
+
+Confidence: 80%
+
+The confidence is slightly lower than 100% because while the results do not directly refute the claim, they also do not provide evidence supporting it.","If we had been on Obamacare and a bureaucrat was trying to tell me when I could get that CAT scan, that would have delayed my treatment."
+41,1,59.49999999999999,"The provided web search results indicate varying levels of support for gay marriage across different countries and within the United States. The results from Pew Research Center show that support for legal same-sex marriage ranges widely from 92% in Sweden to very low percentages in countries like Nigeria. In the U.S., the results from Gallup show consistent support, with 71% of Americans believing that same-sex marriage should be legal, which matches the high levels recorded in previous years. These results suggest that there is strong support for gay marriage in some places but less in others, and that support remains stable in the U.S.","Explanation: The provided web search results indicate varying levels of support for gay marriage across different countries and within the United States. The results from Pew Research Center show that support for legal same-sex marriage ranges widely from 92% in Sweden to very low percentages in countries like Nigeria. In the U.S., the results from Gallup show consistent support, with 71% of Americans believing that same-sex marriage should be legal, which matches the high levels recorded in previous years. These results suggest that there is strong support for gay marriage in some places but less in others, and that support remains stable in the U.S.
+
+Answer: 1
+
+Query: Support for gay marriage around the world and in the US.
+
+Compressed information: Support for gay marriage varies globally, with high levels in Sweden and lower levels in Nigeria. In the U.S., 71% support legal same-sex marriage.
+
+Confidence: 85%
+
+The confidence is moderately high because the data provided gives a clear picture of support levels in different countries and within the U.S., but it does not provide a comprehensive global overview or historical trends over time.",On support for gay marriage.
+42,2,14.0,"The provided web search results do not contain specific information about Barack Obama's attendance and voting record in the U.S. Senate. The sources mentioned discuss other topics such as Supreme Court nominations, constitutional powers, and Senate rules regarding cloture. There is no direct evidence from these sources to confirm or deny the claim that Barack Obama had 150 days in the U.S. Senate where he was able to vote quite often 'present.'","Explanation: The provided web search results do not contain specific information about Barack Obama's attendance and voting record in the U.S. Senate. The sources mentioned discuss other topics such as Supreme Court nominations, constitutional powers, and Senate rules regarding cloture. There is no direct evidence from these sources to confirm or deny the claim that Barack Obama had 150 days in the U.S. Senate where he was able to vote quite often 'present.'
+
+Answer: 2
+
+Query: Barack Obama's Senate attendance and voting record.
+
+Compressed information: Barack Obama's U.S. Senate attendance and voting record.
+
+Confidence: 20%",Barack Obama had 150 days in the U.S. Senate where he was able to vote quite often 'present.' 
+43,0,56.0,"The provided web search results do not contain any information linking Bill Flores to running a company that laid off over 3,000 workers or paying off executives with millions of dollars. The sources mention tax issues and questions about layoffs but do not provide the specific details needed to verify the claim.","Explanation: The provided web search results do not contain any information linking Bill Flores to running a company that laid off over 3,000 workers or paying off executives with millions of dollars. The sources mention tax issues and questions about layoffs but do not provide the specific details needed to verify the claim.
+
+Answer: 0
+
+Query: Did Bill Flores help run a company that laid off over 3,000 workers and paid executives millions?
+
+Compressed information: No evidence found in search results linking Bill Flores to running a company with significant layoffs and executive payouts.
+
+Confidence: 80%
+
+The confidence level is high because there is no direct evidence in the provided sources to support the claim, but it's not 100% as other sources not included in the search might contain relevant information.","Says opponent Bill Flores helped run a company that laid off over 3,000 workers and paid off executives with millions."
+44,0,42.0,"The claim states that the 9-0 decision last week was the 13th time the Supreme Court voted 9-0 that the president had exceeded his constitutional authority. The web search results from Politifact, FactCheck.org, and the House Judiciary Democrats website all mention the 13th time the Supreme Court voted 9-0 on this issue. However, FactCheck.org explicitly calls this a ""stretch,"" suggesting skepticism about the accuracy of the claim. Given the mixed signals and the fact that one source directly questions the claim, there isn't enough clear and unambiguous evidence to confirm its truthfulness.","Explanation: The claim states that the 9-0 decision last week was the 13th time the Supreme Court voted 9-0 that the president had exceeded his constitutional authority. The web search results from Politifact, FactCheck.org, and the House Judiciary Democrats website all mention the 13th time the Supreme Court voted 9-0 on this issue. However, FactCheck.org explicitly calls this a ""stretch,"" suggesting skepticism about the accuracy of the claim. Given the mixed signals and the fact that one source directly questions the claim, there isn't enough clear and unambiguous evidence to confirm its truthfulness.
+
+Answer: 0
+
+Query: Was the recent 9-0 Supreme Court decision the 13th time the court ruled the president exceeded his authority?
+
+Compressed information: Recent 9-0 Supreme Court decision; 13th time president exceeded authority.
+
+Confidence: 60%
+
+The confidence is moderate because while multiple sources mention the 13th time, one source explicitly questions the claim, and no specific details about the exact nature of the decisions or the years they occurred are provided.",The 9-0 decision last week was the 13th time the Supreme Court voted 9-0 that the president had exceeded his constitutional authority.
+45,0,62.99999999999999,"The provided web search results do not support the claim that Tammy Baldwin supports a law where the government takes over decisions on medicine, doctors, and hospitals. Instead, the sources indicate that she supports universal background checks for gun sales and has criticized changes to the Postal Service. There is no evidence from these sources to suggest that she supports such a law. Therefore, the claim appears to be false.","Explanation: The provided web search results do not support the claim that Tammy Baldwin supports a law where the government takes over decisions on medicine, doctors, and hospitals. Instead, the sources indicate that she supports universal background checks for gun sales and has criticized changes to the Postal Service. There is no evidence from these sources to suggest that she supports such a law. Therefore, the claim appears to be false.
+
+Answer: 0
+
+Query: Does Tammy Baldwin support a government takeover of medical decisions?
+
+Compressed information: Web searches show Tammy Baldwin supports gun control measures and criticizes postal service changes, but no evidence of supporting government takeover of medical decisions.
+
+Confidence: 90%","Says Tammy Baldwin supports a law in which government will take over your decisions on medicine, on doctors and on hospitals."
+46,0,59.49999999999999,"The claim suggests that if no action is taken and $700 billion is taken from Medicare to fund Obamacare, Medicare will collapse in less than 10 years. However, the provided sources do not support this claim. Instead, they discuss the depletion of the Medicare Hospital Insurance Trust Fund and other budget-related issues. There is no direct evidence linking the withdrawal of $700 billion from Medicare to its collapse within a decade.","Explanation: The claim suggests that if no action is taken and $700 billion is taken from Medicare to fund Obamacare, Medicare will collapse in less than 10 years. However, the provided sources do not support this claim. Instead, they discuss the depletion of the Medicare Hospital Insurance Trust Fund and other budget-related issues. There is no direct evidence linking the withdrawal of $700 billion from Medicare to its collapse within a decade.
+
+Answer: 0
+
+Query: Will Medicare collapse in less than 10 years if $700 billion is taken for Obamacare?
+
+Compressed information: No evidence shows Medicare will collapse in <10 years if $700B is taken for Obamacare.
+
+Confidence: 85%
+
+The confidence level is high because the provided sources do not support the claim and instead discuss different aspects of Medicare funding and trust fund depletion.","Says if we do nothing and continue to let Obamacare siphon off that $700 billion dollars off the top of it, Medicare goes away in less than 10 years -- certain accounts of it -- and it just falls apart at the seams."
+47,0,59.49999999999999,"The claim states that Sen. John McCain spent the July 4 weekend in Islamabad, Pakistan, selling F-16s and advanced weapons to the individuals who harbored Osama bin Laden. However, the provided sources do not support this specific claim. The sources mention that successive administrations have authorized the sale of sophisticated U.S. weaponry, including F-16s, to various countries, but they do not provide any evidence of McCain's involvement in such activities during a specific July 4 weekend in Islamabad, Pakistan, nor do they mention his dealings with the individuals who harbored Osama bin Laden.","Explanation: The claim states that Sen. John McCain spent the July 4 weekend in Islamabad, Pakistan, selling F-16s and advanced weapons to the individuals who harbored Osama bin Laden. However, the provided sources do not support this specific claim. The sources mention that successive administrations have authorized the sale of sophisticated U.S. weaponry, including F-16s, to various countries, but they do not provide any evidence of McCain's involvement in such activities during a specific July 4 weekend in Islamabad, Pakistan, nor do they mention his dealings with the individuals who harbored Osama bin Laden.
+
+Answer: 0
+
+Query: Did Senator John McCain sell F-16s and advanced weapons in Islamabad, Pakistan, during the July 4 weekend?
+
+Compressed information: No evidence found linking John McCain to selling F-16s and advanced weapons in Islamabad, Pakistan, during the July 4 weekend.
+
+Confidence: 85%
+
+The confidence level is high because the sources provided do not support the claim, but it is not 100% certain since there could be other sources or evidence not included in these searches.","Says Sen. John McCain spent the July 4 weekend in Islamabad, Pakistan, selling F-16s and advanced weapons to the folks who harbored Osama bin Laden."
+48,0,14.0,"The provided web search results do not directly address whether Donald Trump makes anything in America. The sources mention his policy proposals and statements about tariffs but do not provide specific information about his own production activities. Therefore, there is insufficient evidence to confirm or deny the claim.","Explanation: The provided web search results do not directly address whether Donald Trump makes anything in America. The sources mention his policy proposals and statements about tariffs but do not provide specific information about his own production activities. Therefore, there is insufficient evidence to confirm or deny the claim.
+
+Answer: 0
+
+Query: Does Donald Trump produce any goods in America?
+
+Compressed information: Web results do not confirm or deny that Donald Trump produces goods in America. His policy proposals and statements do not address this directly.
+
+Confidence: 20%",Says Donald Trump doesnt make a thing in America.
+49,1,66.5,"The claim states that Republican presidential candidate and Governor John Kasich has spent 177 days out of state and used $350,000 in taxpayer money on his ""costly campaign."" The web search results from Politifact and news sources indicate that these figures are accurate. Specifically, the information from www.politifact.com and www.news5cleveland.com supports the claim by stating that John Kasich has indeed spent 177 days out of state and used $350,000 in taxpayer money on his campaign.","Explanation: The claim states that Republican presidential candidate and Governor John Kasich has spent 177 days out of state and used $350,000 in taxpayer money on his ""costly campaign."" The web search results from Politifact and news sources indicate that these figures are accurate. Specifically, the information from www.politifact.com and www.news5cleveland.com supports the claim by stating that John Kasich has indeed spent 177 days out of state and used $350,000 in taxpayer money on his campaign.
+
+Answer: 1
+
+Query: Has John Kasich spent 177 days out of state and used $350,000 in taxpayer money for his campaign?
+
+Compressed information: John Kasich campaign: 177 days out of state, $350,000 taxpayer money.
+
+Confidence: 95%
+
+The high confidence is based on the consistent reporting from multiple reliable sources, including Politifact and local news outlets.","Says Republican presidential candidate and Gov. John Kasich has spent 177 days out of state and used $350,000 in taxpayer money on his costly campaign."
+50,1,66.5,"The claim is supported by multiple sources, including a New York Times article from October 7, 2008, which directly states that ""Obama's proposal, it's not President Bush's proposal. But I... mandates and fines for small businesses, as Senator Obama's plan calls for."" This indicates that the claim is accurate based on the available evidence.","Explanation: The claim is supported by multiple sources, including a New York Times article from October 7, 2008, which directly states that ""Obama's proposal, it's not President Bush's proposal. But I... mandates and fines for small businesses, as Senator Obama's plan calls for."" This indicates that the claim is accurate based on the available evidence.
+
+Answer: 1
+
+Query: Did Barack Obama's plan include mandates and fines for small businesses?
+
+Compressed information: Barack Obama's 2008 campaign proposal included mandates and fines for small businesses.
+
+Confidence: 95%
+
+The high confidence is based on the direct confirmation from a reputable news source (New York Times) and the consistency with the claim across different contexts.","Barack Obama's plan calls for ""mandates and fines for small businesses."""
+51,2,14.0,"The provided web search results do not contain any specific information about the travel time from the proposed northern Wisconsin iron ore mine to the location of the public hearing. The sources mention the potential for an iron ore mine in northern Wisconsin but do not provide details about the travel time to a public hearing. Therefore, there is insufficient evidence to confirm or deny the claim.","Explanation: The provided web search results do not contain any specific information about the travel time from the proposed northern Wisconsin iron ore mine to the location of the public hearing. The sources mention the potential for an iron ore mine in northern Wisconsin but do not provide details about the travel time to a public hearing. Therefore, there is insufficient evidence to confirm or deny the claim.
+
+Answer: 2
+
+Query: Travel time from proposed northern Wisconsin iron ore mine to public hearing location
+
+Compressed information: Proposed northern Wisconsin iron ore mine; travel time to public hearing
+
+Confidence: 20%",Says area near proposed northern Wisconsin iron ore mine is 15 hours away from where public hearing on mining was held.
+52,0,17.5,"The web search results do not provide any direct evidence linking the improvement in credit ratings to a specific tenure in office. The sources mentioned discuss general trends in credit scores and ratings but do not attribute these changes to the speaker's tenure. Therefore, there is insufficient evidence to confirm the claim.","Explanation: The web search results do not provide any direct evidence linking the improvement in credit ratings to a specific tenure in office. The sources mentioned discuss general trends in credit scores and ratings but do not attribute these changes to the speaker's tenure. Therefore, there is insufficient evidence to confirm the claim.
+
+Answer: 0
+
+Query: Has our credit rating improved since I took office?
+
+Compressed information: Web results do not link credit rating improvements to a specific tenure in office.
+
+Confidence: 25%",Our credit rating went up since Ive been in office.
+53,1,62.99999999999999,"The provided sources indicate that African-American children have a significantly higher risk of dying from asthma compared to white children. Specifically, one source states that black children are 8 times more likely to die from asthma than white children. Another source mentions that asthma mortality rates are significantly higher among Black persons compared to non-Hispanic White children. These findings align with the claim that African-American children are 500 percent more likely to die from asthma than white kids.","Explanation: The provided sources indicate that African-American children have a significantly higher risk of dying from asthma compared to white children. Specifically, one source states that black children are 8 times more likely to die from asthma than white children. Another source mentions that asthma mortality rates are significantly higher among Black persons compared to non-Hispanic White children. These findings align with the claim that African-American children are 500 percent more likely to die from asthma than white kids.
+
+Answer: 1
+
+Query: Are African American children more likely to die from asthma than white children?
+
+Compressed information: African-American children have significantly higher asthma mortality rates compared to white children.
+
+Confidence: 90%
+
+The confidence level is high because multiple reliable sources consistently report higher asthma mortality rates among African-American children compared to white children.",African-American children are 500 percent more likely to die from asthma than white kids.
+54,2,42.0,"The claim states that U.S. police killed more people in just one month than the U.K.'s police did in over a century. The sources provided indicate that there have been discussions about the number of police-related deaths in both countries, but they do not directly compare the exact figures for one month versus over a century. The sources suggest that the U.S. had higher monthly fatalities, but they do not provide specific numbers or a direct comparison to the U.K.'s historical data.","Explanation: The claim states that U.S. police killed more people in just one month than the U.K.'s police did in over a century. The sources provided indicate that there have been discussions about the number of police-related deaths in both countries, but they do not directly compare the exact figures for one month versus over a century. The sources suggest that the U.S. had higher monthly fatalities, but they do not provide specific numbers or a direct comparison to the U.K.'s historical data.
+
+Answer: 2
+
+Query: U.S. police monthly killings vs U.K. historical killings
+
+Compressed information: U.S. police monthly killings compared to U.K. historical killings
+
+Confidence: 60%
+
+The confidence is moderate because while the sources suggest that U.S. police have higher monthly fatalities, they do not provide the exact figures needed to confirm the claim. More specific data would be required to verify the claim definitively.",U.S. police killed more people in just one month than the U.K.s did in over a century.
+55,0,42.0,"The provided web search results indicate that only a small circle of House members was aware of the $75 million loan guarantee for 38 Studios. This suggests that the legislature may not have had the opportunity to debate or vote on the matter, as only a few members were informed. However, there is no explicit confirmation or denial of whether the full legislature had the chance to debate or vote. Additionally, the search results do not provide direct evidence of legislative debate or voting.","Explanation: The provided web search results indicate that only a small circle of House members was aware of the $75 million loan guarantee for 38 Studios. This suggests that the legislature may not have had the opportunity to debate or vote on the matter, as only a few members were informed. However, there is no explicit confirmation or denial of whether the full legislature had the chance to debate or vote. Additionally, the search results do not provide direct evidence of legislative debate or voting.
+
+Answer: 0
+
+Query: Did the Rhode Island legislature debate and vote on a $75 million loan to 38 Studios?
+
+Compressed information: Small circle of House members aware of $75M loan guarantee for 38 Studios; no explicit evidence of full legislature debate or vote.
+
+Confidence: 60%",The legislature was never given the opportunity to debate or vote on loaning $75 million to 38 Studios.
+56,2,21.0,"The provided web search results do not contain direct evidence regarding the specific claim that 11 soccer players on the U.S. Men's National Team are immigrants. The sources mentioned discuss general topics related to immigration and soccer teams but do not provide a clear count of immigrant players on the U.S. Men's National Team. To verify this claim, we would need a source that explicitly states the number of immigrant players on the U.S. Men's National Team.","Explanation: The provided web search results do not contain direct evidence regarding the specific claim that 11 soccer players on the U.S. Men's National Team are immigrants. The sources mentioned discuss general topics related to immigration and soccer teams but do not provide a clear count of immigrant players on the U.S. Men's National Team. To verify this claim, we would need a source that explicitly states the number of immigrant players on the U.S. Men's National Team.
+
+Answer: 2
+
+Query: How many U.S. Men's National Team soccer players are immigrants?
+
+Compressed information: No direct evidence found for claim that 11 U.S. Men's National Team soccer players are immigrants.
+
+Confidence: 30%
+
+The confidence level is relatively low because the provided sources do not address the specific claim, and without a direct and reliable source, it is not possible to confirm or deny the claim with certainty.",Says 11 soccer players on the U.S. Mens National Team are immigrants.
+57,0,59.49999999999999,"The provided sources indicate that China's holdings of U.S. debt represent a much smaller percentage than the claimed 29%. Source [2] from Investopedia states that China owns about 2.6% of the total U.S. debt, which is significantly lower than the 29% mentioned in the claim. Additionally, source [5] indicates that China's holdings have been around 20% of foreign-owned U.S. debt, still far below the 29% stated. Therefore, there is not enough evidence to support the claim.","Explanation: The provided sources indicate that China's holdings of U.S. debt represent a much smaller percentage than the claimed 29%. Source [2] from Investopedia states that China owns about 2.6% of the total U.S. debt, which is significantly lower than the 29% mentioned in the claim. Additionally, source [5] indicates that China's holdings have been around 20% of foreign-owned U.S. debt, still far below the 29% stated. Therefore, there is not enough evidence to support the claim.
+
+Answer: 0
+
+Query: What percentage of US debt does China own?
+
+Compressed information: China's U.S. debt holdings are around 2.6%, not 29%.
+
+Confidence: 85%",China owns about 29 percent of (the U.S.) debt.
+58,0,0.0,"The provided web search results do not contain any specific data or studies related to the cost and time spent by Americans in complying with tax laws. The sources mentioned are related to research costs, sleep disturbances, and urinary tract infections, which are unrelated to tax compliance. Therefore, there is no direct evidence from the given sources to support the claim.","Explanation: The provided web search results do not contain any specific data or studies related to the cost and time spent by Americans in complying with tax laws. The sources mentioned are related to research costs, sleep disturbances, and urinary tract infections, which are unrelated to tax compliance. Therefore, there is no direct evidence from the given sources to support the claim.
+
+Answer: 0
+
+Query: How much time and money do Americans spend complying with tax laws annually?
+
+Compressed information: Web sources do not provide specific data on time and financial costs for American tax compliance.
+
+Confidence: 0%",Americans spend 6.1 billion hours a year complying with tax law. It costs us $163 billion to comply with our tax laws annually.
+59,2,14.0,The provided web search results do not contain any specific data about Florida's campaign contribution limits or their ranking compared to other states. The sources mentioned discuss general campaign finance laws and constitutional sections but do not provide the necessary comparative information to verify the claim.,"Explanation: The provided web search results do not contain any specific data about Florida's campaign contribution limits or their ranking compared to other states. The sources mentioned discuss general campaign finance laws and constitutional sections but do not provide the necessary comparative information to verify the claim.
+
+Answer: 2
+
+Query: What is Florida's campaign contribution limit and how does it rank among other states?
+
+Compressed information: Web results lack specific data on Florida's campaign contribution limits and their ranking compared to other states.
+
+Confidence: 20%",Florida has the second-lowest (campaign) contribution limit in the entire country.
+60,0,42.0,"The web search results from multiple sources, including Politifact and ESPN, indicate that there were allegations made against Linda McMahon regarding her attempt to inform a ringside physician about a steroid investigation. However, none of these sources provide concrete evidence or confirm that she was ""caught"" doing so. The information available suggests that there were allegations but no definitive proof of the claim.","Explanation: The web search results from multiple sources, including Politifact and ESPN, indicate that there were allegations made against Linda McMahon regarding her attempt to inform a ringside physician about a steroid investigation. However, none of these sources provide concrete evidence or confirm that she was ""caught"" doing so. The information available suggests that there were allegations but no definitive proof of the claim.
+
+Answer: 0
+
+Query: Did Linda McMahon, as CEO of WWE, attempt to tip off a ringside physician about a federal investigation into steroid distribution?
+
+Compressed information: Allegations against Linda McMahon (WWE CEO) for attempting to inform ringside physician about steroid investigation.
+
+Confidence: 60%
+
+The confidence level is moderate because while there are allegations, the sources do not provide conclusive evidence to confirm the claim.","As CEO of WWE, Linda McMahon was caught tipping off a ringside physician about a federal investigation into illegally distributing steroids to wrestlers."
+61,0,21.0,"The web search results from Politifact and other sources indicate that there is a claim about David Beckham's proposed soccer stadium at Miami's Port threatening the 207,000 jobs and $27 billion economic impact tied to the cargo and cruise industries. However, these results do not provide any supporting evidence or analysis to confirm or refute the specific numbers mentioned in the claim. The sources merely repeat the claim without offering substantiation.","Explanation: The web search results from Politifact and other sources indicate that there is a claim about David Beckham's proposed soccer stadium at Miami's Port threatening the 207,000 jobs and $27 billion economic impact tied to the cargo and cruise industries. However, these results do not provide any supporting evidence or analysis to confirm or refute the specific numbers mentioned in the claim. The sources merely repeat the claim without offering substantiation.
+
+Answer: 0
+
+Query: Does David Beckham's proposed soccer stadium at Miami's Port threaten 207,000 jobs and $27 billion economic impact of cargo and cruise industries?
+
+Compressed information: David Beckham's proposed Miami Port soccer stadium threatens 207,000 jobs and $27B economic impact of cargo and cruise industries.
+
+Confidence: 30%
+
+The confidence level is relatively low because while the claim is repeated across multiple sources, no detailed evidence or analysis supporting the specific numbers is provided. More research would be needed to verify these claims.","David Beckhams proposed soccer stadium at Miamis Port threatens the 207,000 jobs and $27 billion economic impact tied to the cargo and cruise industries."
+62,0,21.0,"The provided sources discuss campaign contributions and fundraising activities but do not provide specific evidence of job creation money being given to campaign contributors. The sources mention that some donors have access and opportunities to influence the governor, but they do not directly link these actions to receiving job development incentives.","Explanation: The provided sources discuss campaign contributions and fundraising activities but do not provide specific evidence of job creation money being given to campaign contributors. The sources mention that some donors have access and opportunities to influence the governor, but they do not directly link these actions to receiving job development incentives.
+
+Answer: 0
+
+Query: Did Scott Walker distribute job creation funds to political supporters who contributed to his campaigns?
+
+Compressed information: Sources discuss campaign contributions and access but lack evidence of job creation money given to campaign contributors.
+
+Confidence: 30%
+
+Note: The confidence level is relatively low because the provided sources do not directly address the specific claim about job creation money being given to campaign contributors. More targeted research would be needed to confirm or refute the claim.",Scott Walker gave Wisconsin job creation money to his cronies: corporate friends who contributed to his campaigns and got $570 million in job-development incentives
+63,0,56.0,"The provided web search results do not contain any information related to Burger King announcing the pulling of their franchises from military bases due to actions by President Barack Obama. The sources discuss various topics such as military personnel cuts, a commander in Afghanistan, and executive orders, but none of them mention Burger King or its franchises on military bases. Therefore, there is insufficient evidence to support the claim.","Explanation: The provided web search results do not contain any information related to Burger King announcing the pulling of their franchises from military bases due to actions by President Barack Obama. The sources discuss various topics such as military personnel cuts, a commander in Afghanistan, and executive orders, but none of them mention Burger King or its franchises on military bases. Therefore, there is insufficient evidence to support the claim.
+
+Answer: 0
+
+Query: Did Burger King pull franchises from military bases due to Obama's actions?
+
+Compressed information: No sources link Obama's actions to Burger King's decision regarding military bases.
+
+Confidence: 80%
+
+The confidence level is high because the search results clearly do not contain any relevant information to support the claim, but it is not 100% certain since there could be other sources not found through these searches.","Due to actions by President Barack Obama, the Burger King national headquarters announced this month that they will be pulling their franchises from our military bases."
+64,0,42.0,"The provided web search results do not contain any direct evidence supporting the claim that the president of the United States engaged American troops in a fourth conflict in a foreign land. The sources mention involvement in multiple conflicts but do not specify the number of such conflicts or identify a specific fourth conflict. Additionally, the search results do not provide a clear timeline or context that would confirm the claim.","Explanation: The provided web search results do not contain any direct evidence supporting the claim that the president of the United States engaged American troops in a fourth conflict in a foreign land. The sources mention involvement in multiple conflicts but do not specify the number of such conflicts or identify a specific fourth conflict. Additionally, the search results do not provide a clear timeline or context that would confirm the claim.
+
+Answer: 0
+
+Query: Did the US president engage American troops in a fourth foreign conflict?
+
+Compressed information: Web searches did not find evidence of a fourth foreign conflict involving U.S. troops under a specific president.
+
+Confidence: 60%
+
+The confidence level is moderate because while the searches did not find evidence supporting the claim, they also did not definitively disprove it. More specific historical data or official records would be needed to make a definitive judgment.",We saw the president of the United States engage American troops in a fourth conflict in a foreign land. This is historic.
+65,0,59.49999999999999,"The provided web search results do not mention any individual signing a pledge four times. The sources discuss the ""Taxpayer Protection Pledge"" and its significance among Republicans, but they do not provide evidence of someone signing it four times. The closest reference is from September 2021, where it mentions the president signing the pledge, but it does not specify how many times.","Explanation: The provided web search results do not mention any individual signing a pledge four times. The sources discuss the ""Taxpayer Protection Pledge"" and its significance among Republicans, but they do not provide evidence of someone signing it four times. The closest reference is from September 2021, where it mentions the president signing the pledge, but it does not specify how many times.
+
+Answer: 0
+
+Query: Has any US politician signed the taxpayer protection pledge four times?
+
+Compressed information: ""Taxpayer Protection Pledge"" signed by politicians; no mention of signing it four times.
+
+Confidence: 85%
+
+The confidence is high because the sources clearly discuss the pledge but do not provide evidence of anyone signing it four times.",Says hes signed a pledge not to raise taxes four times.
+66,2,14.0,"The provided web search results do not contain any direct information about a 2005 gay pride vote. The sources mentioned discuss broader issues related to discrimination against LGBTQ+ individuals but do not provide specific details about the event in question. Therefore, there is insufficient evidence to determine whether the claim is true or false.","Explanation: The provided web search results do not contain any direct information about a 2005 gay pride vote. The sources mentioned discuss broader issues related to discrimination against LGBTQ+ individuals but do not provide specific details about the event in question. Therefore, there is insufficient evidence to determine whether the claim is true or false.
+
+Answer: 2
+
+Query: Did a 2005 gay pride event occur without discriminatory intent?
+
+Compressed information: Web searches lack details about a 2005 gay pride vote; sources discuss broader discrimination issues.
+
+Confidence: 20%",A 2005 gay pride vote had nothing to do with discrimination.
+67,1,66.5,"The claim is supported by a source from Politifact, which is known for fact-checking claims and providing reliable information. The statement is attributed to Alan Simpson, who made the claim that the national debt increased by $16,000 every second while George Allen served in the U.S. Senate. This indicates that there is evidence supporting the claim.","Explanation: The claim is supported by a source from Politifact, which is known for fact-checking claims and providing reliable information. The statement is attributed to Alan Simpson, who made the claim that the national debt increased by $16,000 every second while George Allen served in the U.S. Senate. This indicates that there is evidence supporting the claim.
+
+Answer: 1
+
+Query: Did the national debt increase by $16,000 every second during George Allen's time in the U.S. Senate?
+
+Compressed information: Alan Simpson claimed the national debt increased by $16,000 per second during George Allen's Senate service.
+
+Confidence: 95%
+
+The high confidence is based on the reputable source from Politifact and the direct attribution of the claim to Alan Simpson.","The national debt increased $16,000 every secondGeorge Allen served in theU.S. Senate."
+68,0,42.0,"The provided web search results indicate that the number of pending cases in immigration courts has grown significantly over the past decade. However, the results do not provide specific historical staff numbers or a comparison of current staff size to past levels. While the results suggest that caseloads have increased, they do not directly confirm or deny the claim about the number of staff members.","Explanation: The provided web search results indicate that the number of pending cases in immigration courts has grown significantly over the past decade. However, the results do not provide specific historical staff numbers or a comparison of current staff size to past levels. While the results suggest that caseloads have increased, they do not directly confirm or deny the claim about the number of staff members.
+
+Answer: 0
+
+Query: Has the number of staff in immigration courts decreased compared to a decade ago?
+
+Compressed information: Immigration court caseloads have grown over the past decade, but specific historical staff numbers are not provided.
+
+Confidence: 60%
+
+The confidence level is moderate because while the results show an increase in caseloads, they do not provide direct evidence regarding the number of staff members in comparison to a decade ago.","Our small staff of 51 is still fewer than we had a decade ago, yet our caseload -- like that of other courts -- has grown."
+69,0,42.0,"The information from the sources provided does not clearly confirm or deny whether the detainees at Guantanamo Bay will receive the H1N1 vaccine. The first source mentions that the Pentagon stressed that detainees would receive the vaccine but does not specify when. The second source indicates that a military spokesman announced that the detainees would receive the vaccine sometime that month, which suggests they were already receiving it. However, the third source is about restrictions and requirements regarding the transfer and release of Guantanamo Bay detainees and does not mention anything about the H1N1 vaccine. The mixed reports suggest that while there was an announcement, the actual implementation might vary.","Explanation: The information from the sources provided does not clearly confirm or deny whether the detainees at Guantanamo Bay will receive the H1N1 vaccine. The first source mentions that the Pentagon stressed that detainees would receive the vaccine but does not specify when. The second source indicates that a military spokesman announced that the detainees would receive the vaccine sometime that month, which suggests they were already receiving it. However, the third source is about restrictions and requirements regarding the transfer and release of Guantanamo Bay detainees and does not mention anything about the H1N1 vaccine. The mixed reports suggest that while there was an announcement, the actual implementation might vary.
+
+Answer: 0
+
+Query: Will detainees at Guantanamo Bay receive the H1N1 vaccine?
+
+Compressed information: Mixed reports on H1N1 vaccine distribution to Guantanamo Bay detainees; Pentagon and military spokesman mentioned but no clear timeline or confirmation.
+
+Confidence: 60%
+
+Note: The confidence level is moderate because while there are indications that the detainees received the vaccine, the exact timing and confirmation are not explicitly stated across all sources.",Guantanamo Bay detainees will get the H1N1 vaccine.
+70,0,42.0,The provided sources do not directly address Representative Mike Thompson's stance on voting for Rep. Paul Ryan's budget proposal. Source [8] mentions a report about the consideration of a budget proposal but does not specify which one or who voted for it. Source [5] indicates that Congressman Mike Thompson voted for a bipartisan budget deal but does not mention Rep. Paul Ryan's budget proposal specifically. Source [7] discusses the President's budget proposal and government officials' testimonies but does not provide any information about Representative Mike Thompson's vote on Rep. Paul Ryan's proposal.,"Explanation: The provided sources do not directly address Representative Mike Thompson's stance on voting for Rep. Paul Ryan's budget proposal. Source [8] mentions a report about the consideration of a budget proposal but does not specify which one or who voted for it. Source [5] indicates that Congressman Mike Thompson voted for a bipartisan budget deal but does not mention Rep. Paul Ryan's budget proposal specifically. Source [7] discusses the President's budget proposal and government officials' testimonies but does not provide any information about Representative Mike Thompson's vote on Rep. Paul Ryan's proposal.
+
+Answer: 0
+
+Query: Did Representative Mike Thompson vote for Rep. Paul Ryan's budget proposal?
+
+Compressed information: Sources do not indicate Representative Mike Thompson's vote on Rep. Paul Ryan's budget proposal.
+
+Confidence: 60%
+
+Note: The confidence level is moderate because while the sources do not directly address the claim, they also do not contradict it. More specific information would be needed to confirm or deny the claim.","On whether he would vote for the budget proposed by Rep. Paul Ryan, R-Wis."
+71,0,28.0,"The web search results indicate that multiple sources suggest Hillary Clinton's 2008 campaign supporters were involved in starting the birther controversy. However, none of the sources explicitly state that the Clinton campaign itself initiated the controversy. Instead, they imply that the campaign may have contributed to its spread or amplification. This ambiguity does not provide enough concrete evidence to confirm the claim.","Explanation: The web search results indicate that multiple sources suggest Hillary Clinton's 2008 campaign supporters were involved in starting the birther controversy. However, none of the sources explicitly state that the Clinton campaign itself initiated the controversy. Instead, they imply that the campaign may have contributed to its spread or amplification. This ambiguity does not provide enough concrete evidence to confirm the claim.
+
+Answer: 0
+
+Query: Did Hillary Clinton's 2008 campaign start the birther controversy?
+
+Compressed information: Multiple sources suggest Clinton 2008 campaign supporters started birther controversy, but not definitively by campaign itself.
+
+Confidence: 40%",Hillary Clinton and her campaign of 2008 startedthe birther controversy.
+72,0,0.0,"The provided web search results do not contain any direct evidence or survey data related to Wisconsin employers' opinions on the anti-business litigation climate as a factor in their expansion decisions. The sources mentioned are about general labor and employment laws, automated decision tools, and diversity incidents, which are not relevant to the specific claim.","Explanation: The provided web search results do not contain any direct evidence or survey data related to Wisconsin employers' opinions on the anti-business litigation climate as a factor in their expansion decisions. The sources mentioned are about general labor and employment laws, automated decision tools, and diversity incidents, which are not relevant to the specific claim.
+
+Answer: 0
+
+Query: Have Wisconsin employers indicated in surveys that the anti-business litigation climate is a key factor in their expansion decisions?
+
+Compressed information: Web search results lack evidence of Wisconsin employers' views on anti-business litigation climate affecting expansion decisions.
+
+Confidence: 0%",Wisconsin employers have repeatedly said in surveys that our anti-business litigation climate is one of the most important factors affecting their expansion decisions.
+73,2,14.0,"The provided web search results do not contain any specific data or figures regarding the growth of the Pasco County budget over the past three years. While there is mention of budgeting and financial concerns, no concrete evidence is presented to support or refute the claim that the budget has doubled.","Explanation: The provided web search results do not contain any specific data or figures regarding the growth of the Pasco County budget over the past three years. While there is mention of budgeting and financial concerns, no concrete evidence is presented to support or refute the claim that the budget has doubled.
+
+Answer: 2
+
+Query: Has the Pasco County budget doubled in the past three years?
+
+Compressed information: Web searches lack specific data on Pasco County budget growth over the past three years.
+
+Confidence: 20%",The Pasco County budget has doubled in the past three years.
+74,0,59.49999999999999,"The claim states that the FBI director said Hillary Clinton's misconduct is a disgrace and embarrassment to the country. However, the search results indicate that the FBI conducted investigations into Clinton's actions but found no intentional misconduct. Additionally, the results suggest that there were concerns about the FBI's handling of the investigation, but they did not find any intentional misconduct by Clinton herself. These findings do not support the claim that the FBI director described Clinton's misconduct as a disgrace and embarrassment.","Explanation: The claim states that the FBI director said Hillary Clinton's misconduct is a disgrace and embarrassment to the country. However, the search results indicate that the FBI conducted investigations into Clinton's actions but found no intentional misconduct. Additionally, the results suggest that there were concerns about the FBI's handling of the investigation, but they did not find any intentional misconduct by Clinton herself. These findings do not support the claim that the FBI director described Clinton's misconduct as a disgrace and embarrassment.
+
+Answer: 0
+
+Query: What did FBI director say about Hillary Clinton's misconduct?
+
+Compressed information: FBI investigations into Hillary Clinton's actions found no intentional misconduct, but there were concerns about the FBI's handling.
+
+Confidence: 85%
+
+The confidence is high because the search results provide clear information about the FBI's findings and the handling of the investigation, but the specific statement about Clinton's misconduct being a disgrace and embarrassment is not directly supported by the given sources.",Just look at what the FBI director said about her (Hillary Clinton) her misconduct is a disgrace and embarrassment to our country.
+75,1,59.49999999999999,"The provided sources suggest that there were no restrictions on public benefits for immigrants until the 1970s. Additionally, the source indicates that when many families arrived in the United States, they might not have been allowed to enter under today's laws, but it does not specify the exact conditions regarding government benefits at the time of arrival. This information suggests that while there may have been some limitations, there were likely no explicit prohibitions against receiving government benefits upon arrival.","Explanation: The provided sources suggest that there were no restrictions on public benefits for immigrants until the 1970s. Additionally, the source indicates that when many families arrived in the United States, they might not have been allowed to enter under today's laws, but it does not specify the exact conditions regarding government benefits at the time of arrival. This information suggests that while there may have been some limitations, there were likely no explicit prohibitions against receiving government benefits upon arrival.
+
+Answer: 1
+
+Query: When did immigrants start receiving government benefits in the US?
+
+Compressed information: Immigrants in early 20th century could receive government benefits; restrictions began in 1970s.
+
+Confidence: 85%
+
+The confidence is moderate because while the sources indicate that there were no explicit restrictions on benefits until the 1970s, they do not provide specific details about the exact conditions or benefits available to immigrants upon arrival.","When his grandfather arrived in the United States, there were no government benefits for immigrants."
+76,0,14.0,"The provided web search results do not directly address the claim that rejecting federal aid to expand Medicaid in Texas will send $9 billion in federal taxes paid by Texans to other states to insure their working poor. The sources discuss Medicaid funding and potential economic impacts but do not provide specific information about a $9 billion transfer to other states. Therefore, there is insufficient evidence to confirm or deny the claim.","Explanation: The provided web search results do not directly address the claim that rejecting federal aid to expand Medicaid in Texas will send $9 billion in federal taxes paid by Texans to other states to insure their working poor. The sources discuss Medicaid funding and potential economic impacts but do not provide specific information about a $9 billion transfer to other states. Therefore, there is insufficient evidence to confirm or deny the claim.
+
+Answer: 0
+
+Query: Will rejecting federal Medicaid expansion in Texas send $9 billion in taxes to other states?
+
+Compressed information: Web results discuss Medicaid funding but do not mention $9 billion transfer to other states.
+
+Confidence: 20%",Says rejecting federal aid to expand Medicaid in Texas will send $9 billion in federal taxes paid by Texans to other states to insure their working poor.
+77,0,14.0,"The claim states that a third of all young people in America are not in America today because of abortion, implying that one in three pregnancies end in abortion. However, the provided sources do not directly support this claim. The first source mentions limited evidence regarding young Americans but does not provide specific data on abortion rates among them. The second source provides global data on unintended pregnancies ending in abortion but does not specify the exact rate for the United States or young people specifically. The third source discusses abortion rates in Western and Northern Europe and North America but does not provide demographic data related to young people leaving the country due to abortion. Therefore, there is insufficient direct evidence to support the claim.","Explanation: The claim states that a third of all young people in America are not in America today because of abortion, implying that one in three pregnancies end in abortion. However, the provided sources do not directly support this claim. The first source mentions limited evidence regarding young Americans but does not provide specific data on abortion rates among them. The second source provides global data on unintended pregnancies ending in abortion but does not specify the exact rate for the United States or young people specifically. The third source discusses abortion rates in Western and Northern Europe and North America but does not provide demographic data related to young people leaving the country due to abortion. Therefore, there is insufficient direct evidence to support the claim.
+
+Answer: 0
+
+Query: What percentage of young American pregnancies end in abortion?
+
+Compressed information: Sources do not provide specific data on abortion rates among young Americans or their impact on population demographics.
+
+Confidence: 20%","A third of all the young people in America are not in America today because of abortion, because one in three pregnancies end in abortion."
+78,0,49.0,"The web search results indicate that there is a suggestion that legalizing same-sex marriage may help decrease anti-gay bias. However, the evidence provided is from studies that suggest a possible link rather than direct evidence. The studies do not provide conclusive proof but rather suggest a correlation. This means that while there is some indication that same-sex marriage legalization could be linked to reduced anti-gay bias, the claim cannot be definitively proven based on the available information.","Explanation: The web search results indicate that there is a suggestion that legalizing same-sex marriage may help decrease anti-gay bias. However, the evidence provided is from studies that suggest a possible link rather than direct evidence. The studies do not provide conclusive proof but rather suggest a correlation. This means that while there is some indication that same-sex marriage legalization could be linked to reduced anti-gay bias, the claim cannot be definitively proven based on the available information.
+
+Answer: 0
+
+Query: Effects of same-sex marriage legalization on anti-gay bias
+
+Compressed information: Studies suggest possible link between same-sex marriage legalization and reduced anti-gay bias, but direct evidence not provided.
+
+Confidence: 70%",On same-sex marriage.
+79,0,14.0,"The provided web search results do not contain any specific unkind comments by Fidel Castro about John McCain. The first source mentions that Fidel Castro made recent comments ridiculing McCain's low grades at naval school, but it does not provide the exact quotes or context. The other sources are unrelated to the claim. Therefore, there is insufficient evidence to confirm or deny the claim.","Explanation: The provided web search results do not contain any specific unkind comments by Fidel Castro about John McCain. The first source mentions that Fidel Castro made recent comments ridiculing McCain's low grades at naval school, but it does not provide the exact quotes or context. The other sources are unrelated to the claim. Therefore, there is insufficient evidence to confirm or deny the claim.
+
+Answer: 0
+
+Query: Did Fidel Castro make unkind comments about John McCain during a political campaign?
+
+Compressed information: Web results mention Fidel Castro criticizing John McCain's naval school grades but do not provide specific unkind comments.
+
+Confidence: 20%",Fidel (Castro) has made his preferences known in the campaign and had some very unkind things to say about me.
+80,1,66.5,"The claim is supported by multiple sources indicating that the federal gas tax of 18.4 cents per gallon has not been increased since 1993. These sources include state-level data, a House member's statement, and a Congressional Research Service report, all of which align with the claim.","Explanation: The claim is supported by multiple sources indicating that the federal gas tax of 18.4 cents per gallon has not been increased since 1993. These sources include state-level data, a House member's statement, and a Congressional Research Service report, all of which align with the claim.
+
+Answer: 1
+
+Query: Has the federal gas tax been raised since 1993?
+
+Compressed information: Federal gas tax unchanged since 1993.
+
+Confidence: 95%
+
+The high confidence is based on the consistent information from multiple reliable sources.",Says that the federal gas tax has not been raised since 1993.
+81,0,56.0,"The provided web search results do not contain any direct evidence supporting or refuting the claim that Scott Walker's budget includes eliminating weekend work for employees. The sources mentioned discuss other aspects of the budget such as labor-related issues, pension and health care concessions, and job protection but do not mention anything about eliminating weekend work.","Explanation: The provided web search results do not contain any direct evidence supporting or refuting the claim that Scott Walker's budget includes eliminating weekend work for employees. The sources mentioned discuss other aspects of the budget such as labor-related issues, pension and health care concessions, and job protection but do not mention anything about eliminating weekend work.
+
+Answer: 0
+
+Query: Does Scott Walker's budget include eliminating weekend work for employees?
+
+Compressed information: Web searches found no evidence regarding Scott Walker's budget and weekend work for employees.
+
+Confidence: 80%
+
+Note: The confidence level is high because the searches were thorough and specific, yet no relevant information was found to support or refute the claim.",Says Scott Walkers bad budget includes: No weekend for workers.
+82,0,49.0,"The web search results indicate that there is a board of 15 unelected officials (IPAB) who have been given authority under the Affordable Care Act (also known as Obamacare) to reduce Medicare coverage. However, the specific claim that these individuals have the power to control Medicare patients' health care decisions is not directly supported by the provided sources. While the sources suggest that the board can make cuts to Medicare, they do not explicitly state that these cuts involve controlling the health care decisions of individual patients.","Explanation: The web search results indicate that there is a board of 15 unelected officials (IPAB) who have been given authority under the Affordable Care Act (also known as Obamacare) to reduce Medicare coverage. However, the specific claim that these individuals have the power to control Medicare patients' health care decisions is not directly supported by the provided sources. While the sources suggest that the board can make cuts to Medicare, they do not explicitly state that these cuts involve controlling the health care decisions of individual patients.
+
+Answer: 0
+
+Query: Did President Obama and Congress give power to a commission of 15 unelected bureaucrats to control Medicare patients' health care decisions?
+
+Compressed information: Web searches mention a board of 15 unelected officials with authority to reduce Medicare coverage but do not confirm control over patient health care decisions.
+
+Confidence: 70%
+
+The confidence level is moderate because while the sources indicate that the board has significant authority over Medicare, they do not explicitly confirm the claim about controlling patient health care decisions.",SaysPresident Obama and his allies in Congress gave power to control Medicare patients health care decisions to a commission of 15 unelected bureaucrats in Washington.
+83,0,56.0,"The provided web search results do not contain any direct evidence or statements regarding State Department officials sending thank-yous to people who gave to the Clinton Foundation while Hillary Clinton was Secretary of State. The sources mentioned are related to general statements about Hillary Clinton's tenure as Secretary of State and her interactions with other officials, but none of them specifically address the claim in question.","Explanation: The provided web search results do not contain any direct evidence or statements regarding State Department officials sending thank-yous to people who gave to the Clinton Foundation while Hillary Clinton was Secretary of State. The sources mentioned are related to general statements about Hillary Clinton's tenure as Secretary of State and her interactions with other officials, but none of them specifically address the claim in question.
+
+Answer: 0
+
+Query: Did State Department officials send thank-you notes to donors of the Clinton Foundation during Hillary Clinton's time as Secretary of State?
+
+Compressed information: Web searches did not find evidence of State Department officials sending thank-you notes to Clinton Foundation donors during Hillary Clinton's tenure as Secretary of State.
+
+Confidence: 80%
+
+The confidence level is high because the claim is specific and would likely be mentioned in relevant documents or news reports if it were true. However, the searches did not turn up any direct evidence supporting the claim.","Under Hillary Clinton, State Department officials were sending official thank-yous to people who gave to the Clinton Foundation."
+84,0,49.0,"The provided sources indicate that the United States grants citizenship to anyone born on its territory, regardless of the legal status of the parents. However, these sources do not explicitly compare the U.S. policy with other countries' policies. The American Immigration Council mentions unrestricted birthplace-based citizenship (jus soli) but does not state that the U.S. is the only country to do so. The Constitution Center discusses the debate over birthright citizenship but does not provide a comprehensive comparison with other nations.","Explanation: The provided sources indicate that the United States grants citizenship to anyone born on its territory, regardless of the legal status of the parents. However, these sources do not explicitly compare the U.S. policy with other countries' policies. The American Immigration Council mentions unrestricted birthplace-based citizenship (jus soli) but does not state that the U.S. is the only country to do so. The Constitution Center discusses the debate over birthright citizenship but does not provide a comprehensive comparison with other nations.
+
+Answer: 0
+
+Query: Is the United States the only country that grants citizenship to anyone born there?
+
+Compressed information: U.S. grants citizenship to all born on its territory; no explicit comparison with other countries.
+
+Confidence: 70%
+
+The confidence is moderate because while the sources confirm the U.S. policy, they do not provide a global comparison to determine if it is unique.","Says the United States is the only nation that affords citizenship to anyone born here, whether you are here legally or illegally."
+85,0,62.99999999999999,"The claim states that Mary Burke's record resulted in 130,000 fewer jobs. The web search results from Politifact indicate that this claim is false. Politifact, known for its fact-checking, has rated this statement as false. Additionally, there is no other information provided that contradicts this finding. The source mentions that the statement was made by the Republican Governors Association on September 23, 2014, and was later checked by Politifact on October 3, 2014.","Explanation: The claim states that Mary Burke's record resulted in 130,000 fewer jobs. The web search results from Politifact indicate that this claim is false. Politifact, known for its fact-checking, has rated this statement as false. Additionally, there is no other information provided that contradicts this finding. The source mentions that the statement was made by the Republican Governors Association on September 23, 2014, and was later checked by Politifact on October 3, 2014.
+
+Answer: 0
+
+Query: Is the claim about Mary Burke's record resulting in 130,000 fewer jobs accurate?
+
+Compressed information: Politifact rates claim of 130,000 fewer jobs under Mary Burke's record as false.
+
+Confidence: 90%","Mary Burkes record: 130,000 fewer jobs."
+86,0,0.0,The provided web search results do not contain any specific data regarding the number of prenatal care visits that Planned Parenthood provides in each state. The sources mentioned discuss general aspects of Planned Parenthood's services but do not provide the exact number of visits per state as claimed.,"Explanation: The provided web search results do not contain any specific data regarding the number of prenatal care visits that Planned Parenthood provides in each state. The sources mentioned discuss general aspects of Planned Parenthood's services but do not provide the exact number of visits per state as claimed.
+
+Answer: 0
+
+Query: How many prenatal care visits does Planned Parenthood provide in each state?
+
+Compressed information: Web search results do not provide specific data on Planned Parenthood's prenatal care visits per state.
+
+Confidence: 0%",Says Planned Parenthood provides about 140 visits for prenatal care in each state.
+87,0,14.0,"The provided web search results do not contain direct wage comparisons between government workers and taxpayers in 41 states. Instead, the sources discuss the overall financial impact of government workers on state budgets and economies, mentioning that in 33 out of 41 states, the number of employees is reported, but no specific wage comparisons are made. The sources suggest that government workers may create more costs than they pay in taxes, but this does not directly confirm or deny the claim about wages.","Explanation: The provided web search results do not contain direct wage comparisons between government workers and taxpayers in 41 states. Instead, the sources discuss the overall financial impact of government workers on state budgets and economies, mentioning that in 33 out of 41 states, the number of employees is reported, but no specific wage comparisons are made. The sources suggest that government workers may create more costs than they pay in taxes, but this does not directly confirm or deny the claim about wages.
+
+Answer: 0
+
+Query: Are government workers in 41 states better paid than taxpayers who support them?
+
+Compressed information: Web searches mention government worker costs and tax contributions but lack direct wage comparisons for 41 states.
+
+Confidence: 20%
+
+The confidence is low because while the sources discuss the financial impact of government workers, they do not provide the specific wage comparisons needed to verify the claim.","Says that in 41 states, government workers are better paid than the taxpayers who support them."
+88,0,35.0,"The provided web search results do not contain any direct quotes from John McCain regarding his knowledge of solutions to the mortgage crisis in 2008. The sources mention that John McCain acknowledged the existence of an economic crisis and that he was criticized for being out of touch, but they do not provide specific statements about his knowledge of solutions to the mortgage crisis. Therefore, there is insufficient evidence to confirm or deny the claim.","Explanation: The provided web search results do not contain any direct quotes from John McCain regarding his knowledge of solutions to the mortgage crisis in 2008. The sources mention that John McCain acknowledged the existence of an economic crisis and that he was criticized for being out of touch, but they do not provide specific statements about his knowledge of solutions to the mortgage crisis. Therefore, there is insufficient evidence to confirm or deny the claim.
+
+Answer: 0
+
+Query: Did John McCain say in 2008 he didn't know of a solution to the mortgage crisis?
+
+Compressed information: Web searches did not find direct quotes from John McCain about his knowledge of mortgage crisis solutions in 2008.
+
+Confidence: 50%
+
+The confidence level is moderate because while the searches did not find direct quotes supporting the claim, they also did not find evidence refuting it. More targeted historical records or transcripts might be needed to make a definitive judgment.",John McCain said last year he didn't know of a solution to the mortgage crisis.
+89,0,59.49999999999999,"The web search results indicate that Mitt Romney, while serving as the governor of Massachusetts, vetoed a proposal to allow illegal immigrants to pay in-state tuition rates. This suggests that Romney did not support such a policy during his tenure as governor. The sources provided do not directly state that Romney said ""No"" to in-state tuition for illegal immigrants but rather that he vetoed a related bill. Therefore, there is no direct evidence supporting the claim that Romney said ""No"" to in-state tuition for illegal immigrants.","Explanation: The web search results indicate that Mitt Romney, while serving as the governor of Massachusetts, vetoed a proposal to allow illegal immigrants to pay in-state tuition rates. This suggests that Romney did not support such a policy during his tenure as governor. The sources provided do not directly state that Romney said ""No"" to in-state tuition for illegal immigrants but rather that he vetoed a related bill. Therefore, there is no direct evidence supporting the claim that Romney said ""No"" to in-state tuition for illegal immigrants.
+
+Answer: 0
+
+Query: Did Mitt Romney say no to in-state tuition for illegal immigrants?
+
+Compressed information: Mitt Romney vetoed in-state tuition bill for illegal immigrants as governor of Massachusetts.
+
+Confidence: 85%
+
+The confidence is moderately high because the sources clearly indicate Romney's opposition to the in-state tuition bill, but they do not explicitly use the phrase ""No"" to describe his stance.","Romney said ""'No' to in-state tuition"" for illegal immigrants."
+90,0,59.49999999999999,"The claim suggests that giving a child aspirin in school requires permission and implies that no other medications can be given without permission, while also suggesting that abortions can be performed secretly. The web search results indicate that there are rules about giving medication to children in schools, particularly regarding aspirin, and that students are generally not allowed to carry medication unless it's an asthma inhaler. However, these sources do not mention anything about the administration of medication by school staff or the legality of abortions. The claim includes an additional and unrelated assertion about secret abortions, which is not supported by the provided information.","Explanation: The claim suggests that giving a child aspirin in school requires permission and implies that no other medications can be given without permission, while also suggesting that abortions can be performed secretly. The web search results indicate that there are rules about giving medication to children in schools, particularly regarding aspirin, and that students are generally not allowed to carry medication unless it's an asthma inhaler. However, these sources do not mention anything about the administration of medication by school staff or the legality of abortions. The claim includes an additional and unrelated assertion about secret abortions, which is not supported by the provided information.
+
+Answer: 0
+
+Query: Can children take aspirin in school without permission? Are there restrictions on giving any medication to children in school?
+
+Compressed information: School policies on administering aspirin and other medications to children; no mention of secret abortions.
+
+Confidence: 85%
+
+The confidence is high because the sources clearly discuss the rules around giving aspirin and other medications to children in school, but they do not address the claim about secret abortions.","You cant give a child an aspirin in school without permission. You cant do any kind of medication, but we can secretly take the child off and have an abortion."
+91,2,0.0,"The provided web search results do not contain any specific data regarding the percentage of single adults aged 21 to 25 without children who are neither working nor in school trying to find a job. The sources mention various statistics about education levels and employment among adults without children, but none of them directly address the claim made.","Explanation: The provided web search results do not contain any specific data regarding the percentage of single adults aged 21 to 25 without children who are neither working nor in school trying to find a job. The sources mention various statistics about education levels and employment among adults without children, but none of them directly address the claim made.
+
+Answer: 2
+
+Query: What percentage of single adults aged 21 to 25 without children are not working or in school looking for a job?
+
+Compressed information: No relevant data found for 21-25 year old single adults without children not working or in school.
+
+Confidence: 0%
+
+The search results do not provide the necessary data to verify the claim, hence the confidence level is 0%.","Twenty percent of single adults, ages 21 to 25 with no kids, are not working or even in school trying to find a job."
+92,0,14.0,"The sources provided discuss various aspects of torture, including its methods, the invalidity of confessions obtained through torture, and international laws banning torture. However, none of these sources directly address the claim about non-sadists' support for torture. Therefore, there is insufficient evidence to determine the truth of the claim.","Explanation: The sources provided discuss various aspects of torture, including its methods, the invalidity of confessions obtained through torture, and international laws banning torture. However, none of these sources directly address the claim about non-sadists' support for torture. Therefore, there is insufficient evidence to determine the truth of the claim.
+
+Answer: 0
+
+Query: Do non-sadists support torture?
+
+Compressed information: Sources discuss torture methods, confessions, and international laws but do not mention non-sadists' support for torture.
+
+Confidence: 20%",On torture.
+93,0,59.49999999999999,"The provided web search results do not mention any plan by President Obama to impose a tax of at least 23 percent on the Medicare prescription drug benefit for low-income beneficiaries. Instead, the sources discuss different aspects of health insurance and Medicare, such as high taxes on high-income groups, prescription drug plans, and health insurance exchanges. There is no direct evidence supporting the claim.","Explanation: The provided web search results do not mention any plan by President Obama to impose a tax of at least 23 percent on the Medicare prescription drug benefit for low-income beneficiaries. Instead, the sources discuss different aspects of health insurance and Medicare, such as high taxes on high-income groups, prescription drug plans, and health insurance exchanges. There is no direct evidence supporting the claim.
+
+Answer: 0
+
+Query: Does President Obama plan to impose a 23% tax on Medicare prescription drugs for low-income beneficiaries?
+
+Compressed information: Web searches do not find evidence of President Obama imposing a 23% tax on Medicare prescription drugs for low-income beneficiaries.
+
+Confidence: 85%
+
+The confidence level is high because the searches did not find any relevant information supporting the claim, but it is not 100% certain since there could be other sources not found through these searches.",President Obama plans to impose a tax of at least 23 percent on the Medicare prescription drug benefit for low-income beneficiaries.
+94,0,59.49999999999999,"The provided web search results do not contain any information related to unemployment rates or President Obama's policies. The sources mentioned (Commonwealth Fund, KFF, EPI) are focused on healthcare systems, pandemic-era coverage policies, and student test scores, respectively. There is no direct evidence linking these sources to the claim about unemployment rates under President Obama's policies.","Explanation: The provided web search results do not contain any information related to unemployment rates or President Obama's policies. The sources mentioned (Commonwealth Fund, KFF, EPI) are focused on healthcare systems, pandemic-era coverage policies, and student test scores, respectively. There is no direct evidence linking these sources to the claim about unemployment rates under President Obama's policies.
+
+Answer: 0
+
+Query: Report on unemployment rate under Obama's policies for Q4 next year
+
+Compressed information: No relevant information found about unemployment rates under Obama's policies from provided sources.
+
+Confidence: 85%
+
+The confidence level is slightly lower due to the possibility that the sources might not have been comprehensive enough to cover all aspects of economic policies during Obama's presidency.","A report just came out that if we continue with President Obamas policies, were looking at over 9 percent unemployment next year in the fourth quarter."
+95,1,62.99999999999999,"The web search results indicate that Florida Governor Rick Scott rejected federal funding for high-speed rail projects multiple times. Specifically, he rejected $2.4 billion in 2011 and $2 billion in 2011 for a proposed Orlando-to-Tampa high-speed rail line. These sources suggest that the claim is accurate as they provide evidence of Florida rejecting federal high-speed rail money.","Explanation: The web search results indicate that Florida Governor Rick Scott rejected federal funding for high-speed rail projects multiple times. Specifically, he rejected $2.4 billion in 2011 and $2 billion in 2011 for a proposed Orlando-to-Tampa high-speed rail line. These sources suggest that the claim is accurate as they provide evidence of Florida rejecting federal high-speed rail money.
+
+Answer: 1
+
+Query: Did Florida reject federal high-speed rail money?
+
+Compressed information: Florida Governor Rick Scott rejected federal high-speed rail funding in 2011 for a proposed Orlando-to-Tampa line.
+
+Confidence: 90%
+
+The confidence is high because the information from multiple reliable sources (Politico, CBS News, and the Christian Science Monitor) consistently reports the same event.",On the way the federal government should spend Floridas rejected high-speed rail money.
+96,0,59.49999999999999,"The provided web search results indicate that the Patient Protection and Affordable Care Act (ACA), signed into law by President Obama on March 23, 2010, is a comprehensive health care reform bill. There is no mention of any requirement for health care professionals to violate HIPAA privacy laws or submit medical data to the government for the purpose of gun confiscation. The claims about unconstitutional laws and the use of health data for gun confiscation do not align with the information available from these sources.","Explanation: The provided web search results indicate that the Patient Protection and Affordable Care Act (ACA), signed into law by President Obama on March 23, 2010, is a comprehensive health care reform bill. There is no mention of any requirement for health care professionals to violate HIPAA privacy laws or submit medical data to the government for the purpose of gun confiscation. The claims about unconstitutional laws and the use of health data for gun confiscation do not align with the information available from these sources.
+
+Answer: 0
+
+Query: Has President Obama's health care law required healthcare professionals to violate HIPAA and submit medical data for gun confiscation?
+
+Compressed information: Web searches show ACA is a health care reform bill without provisions for violating HIPAA or using medical data for gun confiscation.
+
+Confidence: 85%","According to (Barack) Obamas newest unconstitutionally enacted law, health care professionals are now required to violate HIPAA privacy laws and submit medical data to the government, which is then used as justification for gun confiscation."
+97,0,14.0,The provided web search results do not contain any direct data comparing the population of Florida to the combined population of earlier primary and caucus states. The sources mention Florida's early adoption of primaries and its status as one of the largest delegate states but do not provide specific population figures for earlier primary and caucus states or their combined population.,"Explanation: The provided web search results do not contain any direct data comparing the population of Florida to the combined population of earlier primary and caucus states. The sources mention Florida's early adoption of primaries and its status as one of the largest delegate states but do not provide specific population figures for earlier primary and caucus states or their combined population.
+
+Answer: 0
+
+Query: Population of Florida compared to combined population of early primary and caucus states
+
+Compressed information: Florida population vs combined earlier primary/caucus states population
+
+Confidence: 20%
+
+The confidence is low because the provided sources do not offer the necessary comparative data to verify the claim.","At nearly 19 million people, the population of Florida is larger than all the earlier primary and caucus states combined."
